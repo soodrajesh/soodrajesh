@@ -1,4 +1,4 @@
-👋 Hey there, I'm @soodrajesh!
+👋 Hey there, I'm Raj!
 Exploring the tech universe with a curious mind. Here's a quick snapshot:
 
 👀 What I'm into:

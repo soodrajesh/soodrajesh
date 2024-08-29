@@ -9,11 +9,11 @@
 * Led and mentored teams to deliver successful projects and foster a culture of collaboration and innovation. 
 
 🛠️ **Technical Expertise**
-* Cloud Platforms: AWS (Certified Solutions Architect Professional, SysOps Administrator, Developer Associate), Azure, GCP
+* Cloud Platforms: AWS (Certified Solutions Architect Professional),Azure, GCP
 * IaC: Terraform, CloudFormation, Ansible
 * CI/CD: Jenkins, GitHub Actions, GitLab CI
 * Containerization: Docker, Kubernetes
-* Security & Compliance: AWS Security Hub, Snyk, SonarQube, OWASP ZAP, Vault, Dome9
+* Security & Compliance: AWS Security Hub, Snyk, SonarQube, OWASP, Vault, Dome9
 
 🌱 **Currently Exploring**
 * Deepening my knowledge in DevSecOps pipelines and advanced cloud security practices. 

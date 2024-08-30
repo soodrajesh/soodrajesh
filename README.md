@@ -1,6 +1,6 @@
 👋 Hello, I'm Raj!
 
-**Cloud Architect & DevOps Leader** | Architecting scalable, secure, and efficient cloud solutions. 
+**Cloud Architect & DevOps Professional** | Architecting scalable, secure, and efficient cloud solutions. 
 
 🚀 **Proven Track Record**
 * 13+ years of IT experience, specializing in cloud infrastructure and DevOps. 

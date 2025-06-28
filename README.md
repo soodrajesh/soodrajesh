@@ -52,5 +52,3 @@ Interested in collaborating or just catching up over cloud tech and architecture
 🌱 GitHub: [github.com/soodrajesh]
 
 ---
-
-*(This README is fully responsive, mobile-friendly, and uses badges for quick context—designed to make an impact from the first glance.)*

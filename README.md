@@ -6,7 +6,7 @@ A seasoned Cloud Engineering and DevOps professional with 14+ years of transform
 
 * **Cloud Platforms:** AWS, Azure, GCP
 * **Infrastructure as Code (IaC):** Terraform, CloudFormation, Ansible
-* **CI/CD Automation:** Jenkins, GitHub Actions, GitLab CI
+* **CI/CD Automation:** Jenkins, GitHub Actions
 * **Containerization:** Docker, Kubernetes, EKS
 * **Cloud Security:** Vulnerability Management, Compliance Frameworks
 
@@ -27,6 +27,6 @@ A seasoned Cloud Engineering and DevOps professional with 14+ years of transform
 Committed to pushing technological boundaries, delivering scalable, secure, and efficient cloud ecosystems that transform business capabilities.
 
 
-🚀 Let's connect and revolutionize your cloud infrastructure strategy!  
+Let's connect and revolutionize your cloud infrastructure strategy!  
 
 Feel free to reach out to discuss your project or explore potential collaborations.  

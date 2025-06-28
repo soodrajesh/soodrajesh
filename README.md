@@ -47,8 +47,8 @@ I’m driven by:
 ## 📬 Let’s Connect
 
 Interested in collaborating or just catching up over cloud tech and architecture?  
-📧 Email: [soodrajesh@yourmail.com]  
-🔗 LinkedIn: [linkedin.com/in/soodrajesh]  
+📧 Email: [soodrajesh87@gmail.com]  
+🔗 LinkedIn: [linkedin.com/in/irajeshsood]  
 🌱 GitHub: [github.com/soodrajesh]
 
 ---

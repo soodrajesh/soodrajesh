@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![Cloud Engineer](https://img.shields.io/badge/Cloud%20Engineer-AWS%20%7C%20Azure%20%7C%20GCP-blue?style=for-the-badge&logo=amazon-aws)
-![DevOps](https://img.shields.io/badge/DevOps-Kubernetes%20%7C%20Docker%20%7C%20Terraform-orange?style=for-the-badge&logo=kubernetes)
+![DevOps Engineer](https://img.shields.io/badge/Cloud%20Engineer-AWS%20%7C%20Azure%20%7C%20GCP-blue?style=for-the-badge&logo=amazon-aws)
+![Cloud Engineering](https://img.shields.io/badge/DevOps-Kubernetes%20%7C%20Docker%20%7C%20Terraform-orange?style=for-the-badge&logo=kubernetes)
 ![Experience](https://img.shields.io/badge/Experience-14%2B%20Years-brightgreen?style=for-the-badge)
 
 **Senior Cloud Engineer & DevOps Architect**
@@ -25,11 +25,11 @@ I'm a passionate **Cloud Engineering and DevOps specialist** with **14+ years** 
 
 ### 💼 What I Do
 
-- �️ **oCloud Architecture**: Design scalable, multi-cloud solutions on AWS, Azure, and GCP
+- �️ **Cloud Architecture**: Design scalable, multi-cloud solutions on AWS, Azure, and GCP
 - 🔧 **DevOps Engineering**: Implement CI/CD pipelines and automation frameworks
 - 🛡️ **Security & Compliance**: Build secure infrastructure with industry best practices
 - 📊 **Cost Optimization**: Reduce operational costs while improving performance
-- � **\*AI/ML Integration**: Leverage modern AI services for intelligent automation
+- � **\AI/ML Integration**: Leverage modern AI services for intelligent automation
 
 ---
 
@@ -54,14 +54,11 @@ I'm a passionate **Cloud Engineering and DevOps specialist** with **14+ years** 
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Programming & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 

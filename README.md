@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![DevOps Engineer](https://img.shields.io/badge/DevOps%20Engineer-AWS%20%7C%20Azure%20%7C%20GCP-blue?style=for-the-badge&logo=amazon-aws)
+![Cloud Engineer](https://img.shields.io/badge/Cloud%20Engineer-AWS%20%7C%20Azure%20%7C%20GCP-blue?style=for-the-badge&logo=amazon-aws)
 ![Cloud Engineering](https://img.shields.io/badge/DevOps-Kubernetes%20%7C%20Docker%20%7C%20Terraform-orange?style=for-the-badge&logo=kubernetes)
 ![Experience](https://img.shields.io/badge/Experience-14%2B%20Years-brightgreen?style=for-the-badge)
 

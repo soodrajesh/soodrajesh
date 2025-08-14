@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Rajesh Sood
+# Hi, I'm Rajesh Sood
 
 <div align="center">
 
-![DevOps Engineer](https://img.shields.io/badge/Cloud%20Engineer-AWS%20%7C%20Azure%20%7C%20GCP-blue?style=for-the-badge&logo=amazon-aws)
+![DevOps Engineer](https://img.shields.io/badge/DevOps%20Engineer-AWS%20%7C%20Azure%20%7C%20GCP-blue?style=for-the-badge&logo=amazon-aws)
 ![Cloud Engineering](https://img.shields.io/badge/DevOps-Kubernetes%20%7C%20Docker%20%7C%20Terraform-orange?style=for-the-badge&logo=kubernetes)
 ![Experience](https://img.shields.io/badge/Experience-14%2B%20Years-brightgreen?style=for-the-badge)
 
-**Senior Cloud Engineer & DevOps Architect**
+** Cloud Engineering & DevOps Architect**
 
 _Transforming businesses through scalable, secure, and cost-efficient cloud solutions_
 
@@ -29,7 +29,7 @@ I'm a passionate **Cloud Engineering and DevOps specialist** with **14+ years** 
 - 🔧 **DevOps Engineering**: Implement CI/CD pipelines and automation frameworks
 - 🛡️ **Security & Compliance**: Build secure infrastructure with industry best practices
 - 📊 **Cost Optimization**: Reduce operational costs while improving performance
-- � **\AI/ML Integration**: Leverage modern AI services for intelligent automation
+- � **AI/ML Integration**: Leverage modern AI services for intelligent automation
 
 ---
 
@@ -190,7 +190,7 @@ End-to-end ML pipeline deployment on AWS EKS with automated model training, depl
 | ⚡ **System Reliability**   | 99.99% uptime across all systems             |
 | 🔒 **Security Enhancement** | 70% reduction in security incidents          |
 | 🚀 **Deployment Speed**     | 80% faster time-to-market                    |
-| 🌍 **Global Scale**         | Multi-region deployments across 5 continents |
+| 🌍 **Global Scale**         | Multi-region deployments across 3 continents |
 
 </div>
 

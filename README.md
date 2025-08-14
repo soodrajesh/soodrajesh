@@ -6,7 +6,7 @@
 ![Cloud Engineering](https://img.shields.io/badge/DevOps-Kubernetes%20%7C%20Docker%20%7C%20Terraform-orange?style=for-the-badge&logo=kubernetes)
 ![Experience](https://img.shields.io/badge/Experience-14%2B%20Years-brightgreen?style=for-the-badge)
 
-** Cloud Engineering & DevOps Architect**
+**Cloud Engineering & DevOps Specialistt**
 
 _Transforming businesses through scalable, secure, and cost-efficient cloud solutions_
 

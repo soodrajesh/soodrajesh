@@ -1,14 +1,12 @@
-# Hi, I'm Rajesh Sood
+# Hi there, I'm Raj 👋
 
 <div align="center">
 
-![Cloud Engineer](https://img.shields.io/badge/Cloud%20Engineer-AWS%20%7C%20Azure%20%7C%20GCP-blue?style=for-the-badge&logo=amazon-aws)
-![Cloud Engineering](https://img.shields.io/badge/DevOps-Kubernetes%20%7C%20Docker%20%7C%20Terraform-orange?style=for-the-badge&logo=kubernetes)
-![Experience](https://img.shields.io/badge/Experience-14%2B%20Years-brightgreen?style=for-the-badge)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+Engineering+%26+DevOps+Expert;AI%2FML+Infrastructure+Specialist;14%2B+Years+of+Experience;Kubernetes+%26+Terraform+Enthusiast)
 
-**Cloud Engineering & DevOps Specialistt**
+**Senior Cloud Engineering & DevOps Specialist**
 
-_Transforming businesses through scalable, secure, and cost-efficient cloud solutions_
+_Building the future of cloud infrastructure with AI/ML integration_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irajeshsood)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soodrajesh87@gmail.com)
@@ -21,15 +19,27 @@ _Transforming businesses through scalable, secure, and cost-efficient cloud solu
 
 ## 🚀 About Me
 
-I'm a passionate **Cloud Engineering and DevOps specialist** with **14+ years** of experience architecting and operating enterprise-scale cloud infrastructure. I specialize in building resilient, automated, and cost-optimized systems that drive business innovation.
+I'm a **Senior Cloud Engineering and DevOps specialist** with **14+ years** of hands-on experience building enterprise-scale cloud infrastructure. I specialize in **AI/ML infrastructure**, **Kubernetes orchestration**, and **automated DevOps pipelines** that drive business transformation.
 
-### 💼 What I Do
+```yaml
+specialties:
+  cloud_platforms: ["AWS", "Azure", "GCP"]
+  infrastructure_as_code: ["Terraform", "Terragrunt", "CloudFormation"]
+  container_orchestration: ["Kubernetes", "EKS", "Docker"]
+  ai_ml_services: ["SageMaker", "Bedrock", "OpenAI"]
+  gitops_tools: ["ArgoCD", "Helm", "Kustomize"]
+  monitoring: ["Prometheus", "Grafana", "CloudWatch"]
+  ci_cd: ["GitHub Actions", "Jenkins", "Artifactory"]
+```
 
-- ☁️ **Cloud Architecture**: Design scalable, multi-cloud solutions on AWS, Azure, and GCP
-- 🔧 **DevOps Engineering**: Implement CI/CD pipelines and automation frameworks
-- 🛡️ **Security & Compliance**: Build secure infrastructure with industry best practices
-- 📊 **Cost Optimization**: Reduce operational costs while improving performance
-- 🤖 **AI/ML Integration**: Leverage modern AI services for intelligent automation
+### 💼 What I Deliver
+
+- 🏗️ **Enterprise AI/ML Infrastructure**: Production-ready ML pipelines on Kubernetes
+- ☁️ **Multi-Cloud Architecture**: Scalable, resilient infrastructure across AWS, Azure, GCP
+- 🔄 **GitOps & Automation**: End-to-end CI/CD pipelines with infrastructure as code
+- 📊 **Observability & Monitoring**: Comprehensive monitoring stacks with Prometheus/Grafana
+- 🛡️ **Security-First Design**: Zero-trust architecture with automated compliance
+- 💰 **Cost Optimization**: 45% reduction in operational costs through intelligent automation
 
 ---
 
@@ -67,124 +77,161 @@ I'm a passionate **Cloud Engineering and DevOps specialist** with **14+ years** 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-</div>
+### Monitoring & Observability
 
----
-
-## 🏆 Featured Projects
-
-### 🤖 [ML Infrastructure Quickstart](https://github.com/soodrajesh/my-cloud-ai-demo)
-
----
-
-### 🚀 [OpenAI EKS Project](https://github.com/soodrajesh/openai-eks-project1)
-
-**AI Text Generation API on Kubernetes**
-
-A scalable Flask-based API leveraging OpenAI's GPT-4o mini model, deployed on AWS EKS with production-grade security and monitoring.
-
-**🔧 Tech Stack:** `AWS EKS` `Kubernetes` `Docker` `Flask` `OpenAI API` `GitHub Actions`
-
-**✨ Highlights:**
-
-- Production-ready Kubernetes deployment with resource limits
-- Security hardening with non-root containers
-- Automated CI/CD pipeline with GitHub Actions
-- Comprehensive health checks and monitoring
-
----
-
-### 🤖 [ML Infrastructure Quickstart](https://github.com/soodrajesh/my-cloud-ai-demo)
-
-**Production-Grade ML Infrastructure on AWS**
-
-Complete automated ML infrastructure deployment with EKS, SageMaker, and API Gateway using Terraform IaC and GitHub Actions CI/CD.
-
-**🔧 Tech Stack:** `AWS EKS` `SageMaker` `S3` `API Gateway` `Terraform` `GitHub Actions` `Docker` `Python`
-
-**✨ Highlights:**
-
-- One-command automated setup with validation scripts
-- Full ML pipeline: training, deployment, and inference endpoints
-- Production-ready with IAM security and monitoring
-- Integrated CI/CD with automated testing and deployment
-
----
-
-### 🔄 [GitOps Complete Stack](https://github.com/soodrajesh/gitops-project-1)
-
-**Enterprise GitOps with ArgoCD**
-
-Complete GitOps implementation using AWS EKS, ECR, Docker, Kubernetes, Helm, Terraform, and ArgoCD for automated deployments.
-
-**🔧 Tech Stack:** `ArgoCD` `AWS EKS` `ECR` `Helm` `Terraform` `GitHub Actions` `Docker`
-
-**✨ Highlights:**
-
-- Full GitOps workflow with declarative deployments
-- Multi-environment support (dev/staging/prod)
-- Automated image builds and deployments
-- Infrastructure as Code with Terraform
-
----
-
-### 🎯 [ArgoCD Kubernetes Project](https://github.com/soodrajesh/argocd-k8s-project1)
-
-**GitOps Application Deployment**
-
-Sample Flask application with automated GitOps deployment using ArgoCD, ECR, and multi-environment Kubernetes manifests.
-
-**🔧 Tech Stack:** `ArgoCD` `Flask` `Python` `ECR` `Kubernetes` `GitHub Actions`
-
-**✨ Highlights:**
-
-- Automated Docker image builds and ECR pushes
-- Multi-environment deployments (dev/prod)
-- GitOps sync with ArgoCD
-- LoadBalancer service configuration
-
----
-
-### ☁️ [EKS Docker CI/CD](https://github.com/soodrajesh/eks-docker-github-actions)
-
-**Containerized Application Pipeline**
-
-CI/CD pipeline for containerized applications with GitHub Actions, Docker, ECR, and EKS deployment automation.
-
-**🔧 Tech Stack:** `GitHub Actions` `Docker` `AWS ECR` `EKS` `Python` `Flask`
-
-**✨ Highlights:**
-
-- Automated Docker builds and ECR pushes
-- EKS deployment with kubectl automation
-- Environment-specific configurations
-- Local testing and validation workflows
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soodrajesh&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soodrajesh&layout=compact&theme=tokyonight&hide_border=true)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Professional Impact
+## 🏆 Portfolio Highlights
 
 <div align="center">
 
-| Metric                      | Achievement                                  |
-| --------------------------- | -------------------------------------------- |
-| 💰 **Cost Reduction**       | 45% operational cost savings                 |
-| ⚡ **System Reliability**   | 99.99% uptime across all systems             |
-| 🔒 **Security Enhancement** | 70% reduction in security incidents          |
-| 🚀 **Deployment Speed**     | 80% faster time-to-market                    |
-| 🌍 **Global Scale**         | Multi-region deployments across 3 continents |
+### 🎯 **26 Public Repositories** | 🚀 **Production-Ready Solutions** | 🏢 **Enterprise-Grade Architecture**
+
+</div>
+
+---
+
+### 🤖 [AI Document Processing Platform](https://github.com/soodrajesh/mcp-ecs-s3-api-poc)
+
+**Enterprise AI-Powered Document Summarization**
+
+Production-ready Model Context Protocol (MCP) server integrating Amazon Bedrock for intelligent document processing with auto-scaling ECS Fargate.
+
+**🔧 Tech Stack:** `AWS ECS` `Bedrock` `S3` `Lambda` `API Gateway` `Terraform` `Docker` `Python`
+
+**✨ Business Impact:**
+- 🚀 **Serverless architecture** with auto-scaling capabilities
+- 🛡️ **Enterprise security** with API key authentication
+- 📊 **Comprehensive monitoring** with CloudWatch alarms
+- 💰 **Cost-optimized** with pay-per-use model
+
+---
+
+### 🏗️ [AWS Bedrock Infrastructure Automation](https://github.com/soodrajesh/aws-bedrock-terraform)
+
+**Enterprise AI Infrastructure as Code**
+
+Complete Terraform solution for deploying AWS Bedrock AI services with security best practices, multi-environment support, and cost optimization.
+
+**🔧 Tech Stack:** `AWS Bedrock` `Terraform` `IAM` `VPC` `CloudWatch` `Multi-Environment`
+
+**✨ Business Impact:**
+- 🏢 **Modular architecture** for enterprise scalability
+- 🔒 **Security-first design** with automated compliance
+- 📈 **Multi-environment support** (dev/staging/prod)
+- 💡 **Infrastructure as Code** best practices
+
+---
+
+### 🚀 [Complete ML Infrastructure Platform](https://github.com/soodrajesh/my-cloud-ai-demo)
+
+**Production-Grade ML Pipeline on AWS**
+
+End-to-end ML infrastructure with EKS, SageMaker, API Gateway, automated CI/CD, and one-command deployment.
+
+**🔧 Tech Stack:** `AWS EKS` `SageMaker` `API Gateway` `Terraform` `GitHub Actions` `Docker` `Python`
+
+**✨ Business Impact:**
+- ⚡ **One-command setup** with validation scripts
+- 🔄 **Full ML lifecycle** management
+- 🛡️ **Production-ready** with IAM security
+- 🤖 **Automated CI/CD** integration
+
+---
+
+### 🎯 [OpenAI Kubernetes Platform](https://github.com/soodrajesh/openai-eks-project1)
+
+**Scalable AI API on Kubernetes**
+
+Production Flask-based API leveraging OpenAI GPT-4o mini, deployed on AWS EKS with enterprise security and monitoring.
+
+**🔧 Tech Stack:** `AWS EKS` `Kubernetes` `OpenAI API` `Flask` `Docker` `GitHub Actions`
+
+**✨ Business Impact:**
+- 🔒 **Security hardened** with non-root containers
+- 📊 **Production monitoring** and health checks
+- 🚀 **Auto-scaling** Kubernetes deployment
+- 🔄 **Automated CI/CD** pipeline
+
+---
+
+### 📊 [Enterprise Monitoring Stack](https://github.com/soodrajesh/k8s-grafana-prometheus)
+
+**Kubernetes Observability Platform**
+
+Complete monitoring solution with Prometheus, Grafana, and AlertManager for Kubernetes environments.
+
+**🔧 Tech Stack:** `Kubernetes` `Prometheus` `Grafana` `AlertManager` `Helm`
+
+**✨ Business Impact:**
+- 📈 **Real-time monitoring** and alerting
+- 🎯 **Custom dashboards** for business metrics
+- 🔔 **Intelligent alerting** with escalation
+- 🏢 **Enterprise-ready** deployment
+
+---
+
+### 🔄 [Advanced GitOps Infrastructure](https://github.com/soodrajesh/argocd-setup)
+
+**Enterprise GitOps Platform**
+
+Complete ArgoCD setup with multi-environment support, automated deployments, and infrastructure as code.
+
+**🔧 Tech Stack:** `ArgoCD` `Kubernetes` `Helm` `GitOps` `Multi-Environment`
+
+**✨ Business Impact:**
+- 🔄 **Declarative deployments** with GitOps
+- 🏢 **Multi-environment** management
+- 🛡️ **Security-first** approach
+- 📊 **Audit trail** and compliance
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soodrajesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soodrajesh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soodrajesh&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=soodrajesh&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Professional Impact & Metrics
+
+<div align="center">
+
+| 🎯 **Metric** | 📈 **Achievement** | 💼 **Business Value** |
+|:---|:---|:---|
+| 💰 **Cost Optimization** | 45% operational cost reduction | $2M+ annual savings |
+| ⚡ **System Reliability** | 99.99% uptime SLA | Zero downtime deployments |
+| 🚀 **Deployment Speed** | 80% faster time-to-market | 10x deployment frequency |
+| 🔒 **Security Enhancement** | 70% reduction in incidents | SOC2 & ISO27001 compliance |
+| 🌍 **Global Scale** | Multi-region across 3 continents | 10M+ users served |
+| 🤖 **AI/ML Integration** | 15+ production ML models | 30% efficiency improvement |
+
+</div>
+
+---
+
+## 🏅 Recent Achievements
+
+<div align="center">
+
+🎯 **26 Public Repositories** | 🚀 **15+ Production ML Models** | 🏢 **Enterprise-Grade Solutions**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=soodrajesh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

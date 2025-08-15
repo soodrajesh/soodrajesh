@@ -198,16 +198,25 @@ Complete production-ready ArgoCD platform featuring automated installation, ente
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 Technical Excellence & Expertise
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soodrajesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soodrajesh&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🛠️ **Core Technologies & Platforms**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soodrajesh&theme=tokyonight&hide_border=true)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=soodrajesh&theme=tokyo-night&hide_border=true)
+### 🎯 **Specialization Areas**
+
+| 🏗️ **Infrastructure** | 🤖 **AI/ML** | 🔄 **GitOps** | 📊 **Monitoring** |
+|:---:|:---:|:---:|:---:|
+| Kubernetes | SageMaker | ArgoCD | Prometheus |
+| Terraform | Bedrock | Helm | Grafana |
+| EKS | OpenAI | Kustomize | CloudWatch |
 
 </div>
 

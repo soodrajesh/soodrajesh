@@ -6,7 +6,7 @@
 
 **Senior Cloud Engineering & DevOps Specialist**
 
-_Building the future of cloud infrastructure with AI/ML integration_
+_Experienced in building scalable cloud infrastructure and DevOps solutions_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irajeshsood)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soodrajesh87@gmail.com)
@@ -19,7 +19,7 @@ _Building the future of cloud infrastructure with AI/ML integration_
 
 ## 🚀 About Me
 
-I'm a **Senior Cloud Engineering and DevOps specialist** with **14+ years** of hands-on experience building enterprise-scale cloud infrastructure. I specialize in **AI/ML infrastructure**, **Kubernetes orchestration**, and **automated DevOps pipelines** that drive business transformation.
+I'm a **Senior Cloud Engineering and DevOps specialist** with **14+ years** of hands-on experience building enterprise-scale cloud infrastructure. I specialize in **AI/ML infrastructure**, **Kubernetes orchestration**, and **automated DevOps pipelines** for modern applications.
 
 ```yaml
 specialties:
@@ -204,14 +204,14 @@ Complete production-ready ArgoCD platform featuring automated installation, ente
 
 <div align="center">
 
-| 🎯 **Metric** | 📈 **Achievement** | 💼 **Business Value** |
+| 🎯 **Focus Area** | 📈 **Experience** | 💼 **Impact** |
 |:---|:---|:---|
-| 💰 **Cost Optimization** | 45% operational cost reduction | $100K+ annual savings |
-| ⚡ **System Reliability** | 99.99% uptime SLA | Zero downtime deployments |
-| 🚀 **Deployment Speed** | 80% faster time-to-market | 10x deployment frequency |
-| 🔒 **Security Enhancement** | 70% reduction in incidents | SOC2 & ISO27001 compliance |
-| 🌍 **Global Scale** | Multi-region across 3 continents | 5K+ users served |
-| 🤖 **AI/ML Integration** | 5+ production ML models | 30% efficiency improvement |
+| 💰 **Cost Optimization** | Infrastructure rightsizing & automation | Significant operational savings |
+| ⚡ **System Reliability** | High-availability architectures | Improved uptime & stability |
+| 🚀 **Deployment Automation** | CI/CD pipeline optimization | Faster, more reliable deployments |
+| 🔒 **Security & Compliance** | Security-first infrastructure design | Enhanced security posture |
+| 🌍 **Scalable Architecture** | Multi-region cloud deployments | Global application delivery |
+| 🤖 **AI/ML Infrastructure** | Production ML pipeline deployment | Automated ML model serving |
 
 </div>
 
@@ -229,17 +229,17 @@ Complete production-ready ArgoCD platform featuring automated installation, ente
 
 ---
 
-## ✍️ Technical Writing & Thought Leadership
+## ✍️ Technical Interests & Expertise
 
-I regularly share insights and best practices through technical articles on Medium, covering topics like:
+I'm passionate about sharing knowledge and exploring topics in:
 
-- 🏗️ **Cloud Architecture Patterns** - Scalable design principles and real-world implementations
+- 🏗️ **Cloud Architecture Patterns** - Scalable design principles and implementations
 - 🔧 **DevOps Best Practices** - Automation strategies and CI/CD optimization
-- 🛡️ **Cloud Security** - Zero-trust architectures and compliance frameworks
-- 💰 **FinOps & Cost Optimization** - Strategies for cloud cost management
-- 🤖 **AI/ML Operations** - MLOps pipelines and AI infrastructure
+- 🛡️ **Cloud Security** - Security-first infrastructure design
+- 💰 **Cost Optimization** - Efficient cloud resource management
+- 🤖 **AI/ML Operations** - MLOps pipelines and infrastructure
 
-**📖 [Read my latest articles on Medium](https://medium.com/@soodrajesh)**
+**📖 [Connect with me on Medium](https://medium.com/@soodrajesh)**
 
 ---
 

@@ -163,17 +163,19 @@ Production Flask-based API leveraging OpenAI GPT-4o mini, deployed on AWS EKS wi
 
 ### 📊 [Enterprise Monitoring Stack](https://github.com/soodrajesh/k8s-grafana-prometheus)
 
-**Kubernetes Observability Platform**
+**Production-Ready Kubernetes Observability Platform**
 
-Complete monitoring solution with Prometheus, Grafana, and AlertManager for Kubernetes environments.
+Comprehensive enterprise monitoring solution with Prometheus, Grafana, AlertManager, and complete automation for production Kubernetes environments.
 
-**🔧 Tech Stack:** `Kubernetes` `Prometheus` `Grafana` `AlertManager` `Helm`
+**🔧 Tech Stack:** `Kubernetes` `Prometheus` `Grafana` `AlertManager` `Helm` `RBAC` `Network Policies` `Node Exporter`
 
 **✨ Business Impact:**
-- 📈 **Real-time monitoring** and alerting
-- 🎯 **Custom dashboards** for business metrics
-- 🔔 **Intelligent alerting** with escalation
-- 🏢 **Enterprise-ready** deployment
+- 🚀 **One-command deployment** with automated scripts
+- 🔒 **Security-first design** with RBAC and network policies
+- 📈 **Pre-built dashboards** for cluster and application metrics
+- 🔔 **Intelligent alerting** with multi-channel notifications
+- 💾 **Automated backup** and disaster recovery procedures
+- 🏢 **Enterprise compliance** ready (SOC2, ISO27001)
 
 ---
 

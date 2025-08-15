@@ -1,4 +1,4 @@
-# Hi there, I'm Raj 👋
+# Hi there, I'm Raj 
 
 <div align="center">
 
@@ -181,17 +181,20 @@ Comprehensive enterprise monitoring solution with Prometheus, Grafana, AlertMana
 
 ### 🔄 [Advanced GitOps Infrastructure](https://github.com/soodrajesh/argocd-setup)
 
-**Enterprise GitOps Platform**
+**Enterprise ArgoCD GitOps Platform with Security & Automation**
 
-Complete ArgoCD setup with multi-environment support, automated deployments, and infrastructure as code.
+Complete production-ready ArgoCD platform featuring automated installation, enterprise security policies, monitoring integration, and comprehensive backup/recovery automation for scalable multi-cluster GitOps operations.
 
-**🔧 Tech Stack:** `ArgoCD` `Kubernetes` `Helm` `GitOps` `Multi-Environment`
+**🔧 Tech Stack:** `ArgoCD` `Kubernetes` `Helm` `RBAC` `Network Policies` `Prometheus` `OIDC` `TLS` `Bash Automation`
 
 **✨ Business Impact:**
-- 🔄 **Declarative deployments** with GitOps
-- 🏢 **Multi-environment** management
-- 🛡️ **Security-first** approach
-- 📊 **Audit trail** and compliance
+- 🚀 **One-command deployment** with `install.sh` automation and HA support
+- 🔒 **Enterprise security** with RBAC policies, network isolation, and OIDC integration
+- 📊 **Complete observability** with Prometheus metrics, alerts, and ServiceMonitors
+- 💾 **Automated operations** with backup/recovery and application deployment scripts
+- 🏢 **Compliance ready** (SOC2, ISO27001) with comprehensive security documentation
+- ⚡ **Multi-cluster GitOps** with automated application synchronization and health monitoring
+- 🛡️ **Security-first design** with least-privilege access and encrypted communications
 
 ---
 

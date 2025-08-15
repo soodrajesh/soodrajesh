@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+Engineering+%26+DevOps+Expert;AI%2FML+Infrastructure+Specialist;14%2B+Years+of+Experience;Kubernetes+%26+Terraform+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+Engineering+%26+DevOps+Expert;AI%2FML+Infrastructure+Enthusiast;14%2B+Years+of+Experience;Kubernetes+%26+Terraform+Specialist)
 
 **Senior Cloud Engineering & DevOps Specialist**
 

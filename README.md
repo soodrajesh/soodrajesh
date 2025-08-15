@@ -198,29 +198,7 @@ Complete production-ready ArgoCD platform featuring automated installation, ente
 
 ---
 
-## 🏆 Technical Excellence & Expertise
 
-<div align="center">
-
-### 🛠️ **Core Technologies & Platforms**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-### 🎯 **Specialization Areas**
-
-| 🏗️ **Infrastructure** | 🤖 **AI/ML** | 🔄 **GitOps** | 📊 **Monitoring** |
-|:---:|:---:|:---:|:---:|
-| Kubernetes | SageMaker | ArgoCD | Prometheus |
-| Terraform | Bedrock | Helm | Grafana |
-| EKS | OpenAI | Kustomize | CloudWatch |
-
-</div>
-
----
 
 ## 🎯 Professional Impact & Metrics
 
@@ -239,17 +217,7 @@ Complete production-ready ArgoCD platform featuring automated installation, ente
 
 ---
 
-## 🏅 Recent Achievements
 
-<div align="center">
-
-🎯 **26 Public Repositories** | 🚀 **5+ Production ML Models** | 🏢 **Enterprise-Grade Solutions**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=soodrajesh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🌟 What Sets Me Apart
 

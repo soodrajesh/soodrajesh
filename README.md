@@ -214,12 +214,12 @@ Complete ArgoCD setup with multi-environment support, automated deployments, and
 
 | 🎯 **Metric** | 📈 **Achievement** | 💼 **Business Value** |
 |:---|:---|:---|
-| 💰 **Cost Optimization** | 45% operational cost reduction | $2M+ annual savings |
+| 💰 **Cost Optimization** | 45% operational cost reduction | $100K+ annual savings |
 | ⚡ **System Reliability** | 99.99% uptime SLA | Zero downtime deployments |
 | 🚀 **Deployment Speed** | 80% faster time-to-market | 10x deployment frequency |
 | 🔒 **Security Enhancement** | 70% reduction in incidents | SOC2 & ISO27001 compliance |
-| 🌍 **Global Scale** | Multi-region across 3 continents | 10M+ users served |
-| 🤖 **AI/ML Integration** | 15+ production ML models | 30% efficiency improvement |
+| 🌍 **Global Scale** | Multi-region across 3 continents | 5K+ users served |
+| 🤖 **AI/ML Integration** | 5+ production ML models | 30% efficiency improvement |
 
 </div>
 
@@ -229,7 +229,7 @@ Complete ArgoCD setup with multi-environment support, automated deployments, and
 
 <div align="center">
 
-🎯 **26 Public Repositories** | 🚀 **15+ Production ML Models** | 🏢 **Enterprise-Grade Solutions**
+🎯 **26 Public Repositories** | 🚀 **5+ Production ML Models** | 🏢 **Enterprise-Grade Solutions**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soodrajesh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 

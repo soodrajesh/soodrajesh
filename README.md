@@ -1,4 +1,4 @@
-# Hi, I'm Rajesh Sood
+# Hi, I'm Raj
 
 <div align="center">
 
@@ -48,17 +48,25 @@ I'm a passionate **Cloud Engineering and DevOps specialist** with **14+ years** 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ### CI/CD & Automation
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ECR](https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### ML & AI Services
+
+![SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Programming & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 </div>
 
@@ -66,20 +74,7 @@ I'm a passionate **Cloud Engineering and DevOps specialist** with **14+ years** 
 
 ## 🏆 Featured Projects
 
-### 🤖 [MCP ECS S3 API PoC](https://github.com/soodrajesh/mcp-ecs-s3-api-poc)
-
-**AI-Powered Document Processing on AWS**
-
-A production-ready Model Context Protocol (MCP) server that integrates with Amazon Bedrock for intelligent document summarization. Built with modern DevOps practices and comprehensive security.
-
-**🔧 Tech Stack:** `AWS ECS` `S3` `Lambda` `API Gateway` `Terraform` `Docker` `Python`
-
-**✨ Highlights:**
-
-- Serverless architecture with auto-scaling ECS Fargate
-- Comprehensive monitoring with CloudWatch alarms
-- Security-first design with API key authentication
-- Infrastructure as Code with modular Terraform
+### 🤖 [ML Infrastructure Quickstart](https://github.com/soodrajesh/my-cloud-ai-demo)
 
 ---
 
@@ -100,71 +95,71 @@ A scalable Flask-based API leveraging OpenAI's GPT-4o mini model, deployed on AW
 
 ---
 
-### ☁️ [AWS Bedrock Terraform](https://github.com/soodrajesh/aws-bedrock-terraform)
+### 🤖 [ML Infrastructure Quickstart](https://github.com/soodrajesh/my-cloud-ai-demo)
 
-**Enterprise AI Infrastructure Automation**
+**Production-Grade ML Infrastructure on AWS**
 
-Complete Infrastructure as Code solution for deploying AWS Bedrock AI services with security best practices and cost optimization.
+Complete automated ML infrastructure deployment with EKS, SageMaker, and API Gateway using Terraform IaC and GitHub Actions CI/CD.
 
-**🔧 Tech Stack:** `AWS Bedrock` `Terraform` `IAM` `VPC` `CloudWatch`
+**🔧 Tech Stack:** `AWS EKS` `SageMaker` `S3` `API Gateway` `Terraform` `GitHub Actions` `Docker` `Python`
 
 **✨ Highlights:**
 
-- Modular Terraform architecture
+- One-command automated setup with validation scripts
+- Full ML pipeline: training, deployment, and inference endpoints
+- Production-ready with IAM security and monitoring
+- Integrated CI/CD with automated testing and deployment
+
+---
+
+### 🔄 [GitOps Complete Stack](https://github.com/soodrajesh/gitops-project-1)
+
+**Enterprise GitOps with ArgoCD**
+
+Complete GitOps implementation using AWS EKS, ECR, Docker, Kubernetes, Helm, Terraform, and ArgoCD for automated deployments.
+
+**🔧 Tech Stack:** `ArgoCD` `AWS EKS` `ECR` `Helm` `Terraform` `GitHub Actions` `Docker`
+
+**✨ Highlights:**
+
+- Full GitOps workflow with declarative deployments
 - Multi-environment support (dev/staging/prod)
-- Automated security compliance
-- Cost monitoring and optimization
+- Automated image builds and deployments
+- Infrastructure as Code with Terraform
 
 ---
 
-### 🔄 [CI/CD Project](https://github.com/soodrajesh/ci-cd-project-1)
+### 🎯 [ArgoCD Kubernetes Project](https://github.com/soodrajesh/argocd-k8s-project1)
 
-**Advanced DevOps Pipeline**
+**GitOps Application Deployment**
 
-Enterprise-grade CI/CD pipeline implementation with automated testing, security scanning, and multi-environment deployments.
+Sample Flask application with automated GitOps deployment using ArgoCD, ECR, and multi-environment Kubernetes manifests.
 
-**🔧 Tech Stack:** `GitHub Actions` `Docker` `Kubernetes` `Terraform` `Security Scanning`
+**🔧 Tech Stack:** `ArgoCD` `Flask` `Python` `ECR` `Kubernetes` `GitHub Actions`
 
 **✨ Highlights:**
 
-- Multi-stage pipeline with quality gates
-- Automated security and vulnerability scanning
-- Blue-green deployment strategies
-- Infrastructure drift detection
+- Automated Docker image builds and ECR pushes
+- Multi-environment deployments (dev/prod)
+- GitOps sync with ArgoCD
+- LoadBalancer service configuration
 
 ---
 
-### 🎯 [Kubernetes Projects](https://github.com/soodrajesh/k8s-project-1)
+### ☁️ [EKS Docker CI/CD](https://github.com/soodrajesh/eks-docker-github-actions)
 
-**Production Kubernetes Deployments**
+**Containerized Application Pipeline**
 
-Collection of production-ready Kubernetes applications with advanced networking, security, and observability features.
+CI/CD pipeline for containerized applications with GitHub Actions, Docker, ECR, and EKS deployment automation.
 
-**🔧 Tech Stack:** `Kubernetes` `Helm` `Istio` `Prometheus` `Grafana`
-
-**✨ Highlights:**
-
-- Service mesh implementation with Istio
-- Advanced monitoring and alerting
-- Network policies and security contexts
-- GitOps deployment workflows
-
----
-
-### 🤖 [AI-Powered EKS Project](https://github.com/soodrajesh/ai-powered-eks-project)
-
-**Machine Learning on Kubernetes**
-
-End-to-end ML pipeline deployment on AWS EKS with automated model training, deployment, and monitoring.
-
-**🔧 Tech Stack:** `AWS EKS` `MLflow` `Kubeflow` `TensorFlow` `Python`
+**🔧 Tech Stack:** `GitHub Actions` `Docker` `AWS ECR` `EKS` `Python` `Flask`
 
 **✨ Highlights:**
 
-- Automated ML model lifecycle management
-- Scalable training and inference pipelines
-- Model versioning and A/B testing
-- Real-time monitoring and alerting
+- Automated Docker builds and ECR pushes
+- EKS deployment with kubectl automation
+- Environment-specific configurations
+- Local testing and validation workflows
 
 ---
 

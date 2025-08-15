@@ -34,7 +34,7 @@ specialties:
 
 ### 💼 What I Deliver
 
-- 🏗️ **Enterprise AI/ML Infrastructure**: Production-ready ML pipelines on Kubernetes
+- 🏗️ **Enterprise AI/ML Infrastructure**: Production-ready ML Infra and Pipelines
 - ☁️ **Multi-Cloud Architecture**: Scalable, resilient infrastructure across AWS, Azure, GCP
 - 🔄 **GitOps & Automation**: End-to-end CI/CD pipelines with infrastructure as code
 - 📊 **Observability & Monitoring**: Comprehensive monitoring stacks with Prometheus/Grafana

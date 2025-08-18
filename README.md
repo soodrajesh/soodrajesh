@@ -19,7 +19,7 @@ _Transforming complex infrastructure challenges into elegant, scalable solutions
 
 ## About Me
 
-I'm a Senior Cloud Engineering and DevOps specialist with 14+ years of hands-on experience building enterprise-scale cloud infrastructure. I specialize in AI/ML infrastructure, Kubernetes orchestration, and automated DevOps pipelines for modern applications.
+I'm a Senior Cloud Engineering and DevOps specialist with 14+ years of hands-on experience building enterprise-scale cloud infrastructure. I specialize in Enterprise Cloud & AI/ML infrastructure, Kubernetes orchestration, and automated DevOps CI/CD pipelines for modern applications.
 
 **What Makes Me Different:**
 - **Business-Outcome Focused**: I don't just deploy infrastructure—I architect solutions that drive measurable business results

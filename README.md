@@ -280,7 +280,7 @@ I'm passionate about sharing knowledge and exploring topics in:
 
 ![Google Cloud Professional Cloud Architect](https://img.shields.io/badge/GCP-Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Microsoft Azure Infrastructure](https://img.shields.io/badge/Azure-Implementing%20Infrastructure%20Solutions-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Alibaba Cloud Associate](https://img.shields.io/badge/Alibaba%20Cloud-Associate-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white)
+![Alibaba Cloud Associate](https://img.shields.io/badge/Alibaba%20Cloud-Associate-FF6A00?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🔗 Networking & Oracle Cloud
 
@@ -288,12 +288,12 @@ I'm passionate about sharing knowledge and exploring topics in:
 ![Oracle Cloud Developer 2020](https://img.shields.io/badge/Oracle%20Cloud-Developer%202020%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Oracle Cloud Foundations 2020](https://img.shields.io/badge/Oracle%20Cloud-Foundations%202020%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**[View All Certifications on Credly](https://www.credly.com/users/rajeshsood/badges)**
+**[View All Certifications on Credly](https://www.credly.com/users/rajeshsood/badge)**
 
 </div>
 
 ---
-a
+
 ## 🤝 Let's Connect!
 
 I'm always excited to discuss cloud architecture, DevOps best practices, or potential collaborations. Whether you're looking to:

@@ -246,8 +246,6 @@ I'm passionate about sharing knowledge and exploring topics in:
 - **Sustainable Computing**: Green cloud initiatives and carbon footprint reduction
 - **FinOps**: Advanced cloud cost optimization and governance
 
-**Recent Achievement**: Successfully deployed enterprise AI infrastructure serving 100K+ daily requests
-
 ---
 
 ## Certifications & Expertise

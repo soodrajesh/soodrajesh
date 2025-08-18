@@ -1,4 +1,4 @@
-# Building Cloud-First Futures | Raj S
+# <span style="color: #2E9EF7">Building Cloud-First Futures | Raj S</span>
 
 <div align="center">
 
@@ -17,7 +17,7 @@ _Transforming complex infrastructure challenges into elegant, scalable solutions
 
 ---
 
-## About Me
+## <span style="color: #2E9EF7">About Me</span>
 
 I'm a Senior Cloud Engineering and DevOps specialist with 14+ years of hands-on experience building enterprise-scale cloud infrastructure. I specialize in AI/ML infrastructure, Kubernetes orchestration, and automated DevOps pipelines for modern applications.
 
@@ -38,7 +38,7 @@ specialties:
   ci_cd: ["GitHub Actions", "Jenkins", "Artifactory"]
 ```
 
-### What I Deliver
+### <span style="color: #2E9EF7">What I Deliver</span>
 
 - **Enterprise AI/ML Infrastructure**: Production-ready ML infrastructure and pipelines
 - **Multi-Cloud Architecture**: Scalable, resilient infrastructure across AWS, Azure, GCP
@@ -49,41 +49,41 @@ specialties:
 
 ---
 
-## Tech Stack
+## <span style="color: #2E9EF7">Tech Stack</span>
 
 <div align="center">
 
-### Cloud Platforms
+### <span style="color: #2E9EF7">Cloud Platforms</span>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### Infrastructure & Orchestration
+### <span style="color: #2E9EF7">Infrastructure & Orchestration</span>
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-### CI/CD & Automation
+### <span style="color: #2E9EF7">CI/CD & Automation</span>
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### ML & AI Services
+### <span style="color: #2E9EF7">ML & AI Services</span>
 
 ![SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Programming & Scripting
+### <span style="color: #2E9EF7">Programming & Scripting</span>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-### Monitoring & Observability
+### <span style="color: #2E9EF7">Monitoring & Observability</span>
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -93,7 +93,7 @@ specialties:
 
 ---
 
-## Portfolio Highlights
+## <span style="color: #2E9EF7">Portfolio Highlights</span>
 
 <div align="center">
 
@@ -103,7 +103,7 @@ specialties:
 
 ---
 
-### 1. 🤖 [AI Document Processing Platform](https://github.com/soodrajesh/mcp-ecs-s3-api-poc)
+### <span style="color: #2E9EF7">1. 🤖 [AI Document Processing Platform](https://github.com/soodrajesh/mcp-ecs-s3-api-poc)</span>
 
 **Model Context Protocol (MCP) Server with S3 Integration**
 
@@ -123,7 +123,7 @@ A production-ready MCP server that enables AI models (via Amazon Bedrock) to fet
 
 ---
 
-### 2. 🚀 [Complete ML Infrastructure Platform](https://github.com/soodrajesh/my-cloud-ai-demo)
+### <span style="color: #2E9EF7">2. 🚀 [Complete ML Infrastructure Platform](https://github.com/soodrajesh/my-cloud-ai-demo)</span>
 
 **EKS + SageMaker + API Gateway ML Pipeline**
 
@@ -144,7 +144,7 @@ End-to-end ML infrastructure with EKS, SageMaker, S3, and API Gateway. Includes 
 
 ---
 
-### 3. 🎯 [OpenAI Kubernetes Platform](https://github.com/soodrajesh/openai-eks-project1)
+### <span style="color: #2E9EF7">3. 🎯 [OpenAI Kubernetes Platform](https://github.com/soodrajesh/openai-eks-project1)</span>
 
 **Flask API with GPT-4o mini on EKS**
 
@@ -164,7 +164,7 @@ Simple Flask-based API that uses OpenAI's GPT-4o mini model for text generation,
 
 ---
 
-### 4. 📊 [Enterprise Monitoring Stack](https://github.com/soodrajesh/k8s-grafana-prometheus)
+### <span style="color: #2E9EF7">4. 📊 [Enterprise Monitoring Stack](https://github.com/soodrajesh/k8s-grafana-prometheus)</span>
 
 **Kubernetes Monitoring with Prometheus & Grafana**
 
@@ -186,7 +186,7 @@ Complete monitoring solution for Kubernetes clusters featuring Prometheus, Grafa
 
 ---
 
-### 5. 🔄 [Advanced GitOps Infrastructure](https://github.com/soodrajesh/argocd-setup)
+### <span style="color: #2E9EF7">5. 🔄 [Advanced GitOps Infrastructure](https://github.com/soodrajesh/argocd-setup)</span>
 
 **Enterprise ArgoCD Platform with Security & Automation**
 
@@ -212,7 +212,7 @@ Complete ArgoCD setup for enterprise Kubernetes environments with automated inst
 
 ---
 
-## Professional Impact & Metrics
+## <span style="color: #2E9EF7">Professional Impact & Metrics</span>
 
 <div align="center">
 
@@ -229,7 +229,7 @@ Complete ArgoCD setup for enterprise Kubernetes environments with automated inst
 
 ---
 
-## What Sets Me Apart
+## <span style="color: #2E9EF7">What Sets Me Apart</span>
 
 - **Business-Focused**: I don't just build infrastructure; I solve business problems
 - **Security-First**: Every solution is designed with security and compliance in mind
@@ -239,7 +239,7 @@ Complete ArgoCD setup for enterprise Kubernetes environments with automated inst
 
 ---
 
-## Technical Interests & Expertise
+## <span style="color: #2E9EF7">Technical Interests & Expertise</span>
 
 I'm passionate about sharing knowledge and exploring topics in:
 
@@ -253,9 +253,10 @@ I'm passionate about sharing knowledge and exploring topics in:
 
 ---
 
-## Current Focus & Recent Achievements
+## <span style="color: #2E9EF7">Current Focus & Recent Achievements</span>
 
 <div align="center">
+
 </div>
 
 - **AI/ML Operations**: Implementing MLOps pipelines and AI model deployment
@@ -265,23 +266,23 @@ I'm passionate about sharing knowledge and exploring topics in:
 
 ---
 
-## Certifications & Expertise
+## <span style="color: #2E9EF7">Certifications & Expertise</span>
 
 <div align="center">
 
-### AWS Certifications
+### <span style="color: #2E9EF7">AWS Certifications</span>
 
 ![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS SysOps Administrator Associate](https://img.shields.io/badge/AWS-SysOps%20Administrator%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Multi-Cloud Certifications
+### <span style="color: #2E9EF7">Multi-Cloud Certifications</span>
 
 ![Google Cloud Professional Cloud Architect](https://img.shields.io/badge/GCP-Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Microsoft Azure Infrastructure](https://img.shields.io/badge/Azure-Implementing%20Infrastructure%20Solutions-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Alibaba Cloud Associate](https://img.shields.io/badge/Alibaba%20Cloud-Associate-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white)
 
-### Networking & Oracle Cloud
+### <span style="color: #2E9EF7">Networking & Oracle Cloud</span>
 
 ![Aviatrix Multi-Cloud Network Associate](https://img.shields.io/badge/Aviatrix-Multi--Cloud%20Network%20Associate-00A1C9?style=for-the-badge&logo=aviatrix&logoColor=white)
 ![Oracle Cloud Developer 2020](https://img.shields.io/badge/Oracle%20Cloud-Developer%202020%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -293,7 +294,7 @@ I'm passionate about sharing knowledge and exploring topics in:
 
 ---
 
-## Let's Connect!
+## <span style="color: #2E9EF7">Let's Connect!</span>
 
 I'm always excited to discuss cloud architecture, DevOps best practices, or potential collaborations. Whether you're looking to:
 

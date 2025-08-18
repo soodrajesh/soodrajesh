@@ -319,6 +319,6 @@ I'm always excited to discuss cloud architecture, DevOps best practices, or pote
 
 _"The best way to predict the future is to build it."_
 
-**Star my repositories if you find them helpful!**
+**⭐ Star my repositories if you find them helpful!**
 
 </div>

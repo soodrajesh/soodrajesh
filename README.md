@@ -192,7 +192,7 @@ Complete monitoring solution for Kubernetes clusters featuring Prometheus, Grafa
 
 Complete ArgoCD setup for enterprise Kubernetes environments with automated installation, security policies, and monitoring integration.
 
-**Tech Stack:** `ArgoCD` `Kubernetes` `Helm` `RBAC` `Prometheus` `OIDC` `TLS`
+**Tech Stack:** `ArgoCD` `Kubernetes` `RBAC` `Prometheus` `OIDC` `TLS`
 
 **What It Actually Does:**
 - Automated ArgoCD installation with one-command deployment

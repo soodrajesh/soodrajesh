@@ -236,9 +236,6 @@ I'm passionate about sharing knowledge and exploring topics in:
 ## Current Focus & Recent Achievements
 
 <div align="center">
-
-**Active Projects | Recent Milestones | 2025 Goals**
-
 </div>
 
 - **AI/ML Operations**: Implementing MLOps pipelines and AI model deployment

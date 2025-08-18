@@ -23,7 +23,7 @@ I'm a Senior Cloud Engineering and DevOps specialist with 14+ years of hands-on 
 
 **What Makes Me Different:**
 - **Business-Outcome Focused**: I don't just deploy infrastructure—I architect solutions that drive measurable business results
-- **AI/ML Infrastructure Pioneer**: Early adopter and expert in production ML pipelines, not just theory
+- **AI/ML Infrastructure Pioneer**: Early adopter and already building production ML pipelines, not just theory
 - **Multi-Cloud Strategist**: Deep expertise across AWS, Azure, and GCP with real-world migration experience
 - **Security-First Architect**: Every solution is built with compliance and zero-trust principles from day one
 

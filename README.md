@@ -1,4 +1,4 @@
-# Hi there, I'm Raj 
+# Building Cloud-First Futures | Raj S
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 **Senior Cloud Engineering & DevOps Specialist**
 
-_Experienced in building scalable cloud infrastructure and DevOps solutions_
+_Transforming complex infrastructure challenges into elegant, scalable solutions_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irajeshsood)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soodrajesh87@gmail.com)
@@ -19,7 +19,13 @@ _Experienced in building scalable cloud infrastructure and DevOps solutions_
 
 ## About Me
 
-I'm a Senior Cloud Engineering and DevOps specialist with 15+ years of hands-on experience building enterprise-scale cloud infrastructure. I specialize in AI/ML infrastructure, Kubernetes orchestration, and automated DevOps pipelines for modern applications.
+I'm a Senior Cloud Engineering and DevOps specialist with 14+ years of hands-on experience building enterprise-scale cloud infrastructure. I specialize in AI/ML infrastructure, Kubernetes orchestration, and automated DevOps pipelines for modern applications.
+
+**What Makes Me Different:**
+- **Business-Outcome Focused**: I don't just deploy infrastructure—I architect solutions that drive measurable business results
+- **AI/ML Infrastructure Pioneer**: Early adopter and expert in production ML pipelines, not just theory
+- **Multi-Cloud Strategist**: Deep expertise across AWS, Azure, and GCP with real-world migration experience
+- **Security-First Architect**: Every solution is built with compliance and zero-trust principles from day one
 
 ```yaml
 specialties:

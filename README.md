@@ -99,108 +99,96 @@ specialties:
 
 ### [AI Document Processing Platform](https://github.com/soodrajesh/mcp-ecs-s3-api-poc)
 
-**Enterprise AI-Powered Document Summarization**
+**Model Context Protocol (MCP) Server with S3 Integration**
 
-Production-ready Model Context Protocol (MCP) server integrating Amazon Bedrock for intelligent document processing with auto-scaling ECS Fargate.
+A production-ready MCP server that enables AI models (via Amazon Bedrock) to fetch and summarize text files from S3 buckets. Built with serverless architecture using ECS Fargate, Lambda, and API Gateway.
 
 **Tech Stack:** `AWS ECS` `Bedrock` `S3` `Lambda` `API Gateway` `Terraform` `Docker` `Python`
 
-**Business Impact:**
-- Serverless architecture with auto-scaling capabilities
-- Enterprise security with API key authentication
-- Comprehensive monitoring with CloudWatch alarms
-- Cost-optimized with pay-per-use model
-- Performance: 95% faster document processing vs. traditional methods
-
----
-
-### [AWS Bedrock Infrastructure Automation](https://github.com/soodrajesh/aws-bedrock-terraform)
-
-**Enterprise AI Infrastructure as Code**
-
-Complete Terraform solution for deploying AWS Bedrock AI services with security best practices, multi-environment support, and cost optimization.
-
-**Tech Stack:** `AWS Bedrock` `Terraform` `IAM` `VPC` `CloudWatch` `Multi-Environment`
-
-**Business Impact:**
-- Modular architecture for enterprise scalability
-- Security-first design with automated compliance
-- Multi-environment support (dev/staging/prod)
-- Infrastructure as Code best practices
-- Deployment time: Reduced from 4 hours to 15 minutes
+**What It Actually Does:**
+- MCP server that integrates with Amazon Bedrock for AI-powered document processing
+- S3 file upload triggers Lambda functions to process new documents
+- ECS Fargate service with auto-scaling capabilities
+- API Gateway with API key authentication for secure access
+- Comprehensive CloudWatch monitoring and SNS alerting
+- Complete Terraform infrastructure as code
 
 ---
 
 ### [Complete ML Infrastructure Platform](https://github.com/soodrajesh/my-cloud-ai-demo)
 
-**Production-Grade ML Pipeline on AWS**
+**EKS + SageMaker + API Gateway ML Pipeline**
 
-End-to-end ML infrastructure with EKS, SageMaker, API Gateway, automated CI/CD, and one-command deployment.
+End-to-end ML infrastructure with EKS, SageMaker, S3, and API Gateway. Includes automated CI/CD via GitHub Actions and one-command deployment scripts.
 
-**Tech Stack:** `AWS EKS` `SageMaker` `API Gateway` `Terraform` `GitHub Actions` `Docker` `Python`
+**Tech Stack:** `AWS EKS` `SageMaker` `S3` `API Gateway` `Terraform` `GitHub Actions` `Docker` `Python`
 
-**Business Impact:**
-- One-command setup with validation scripts
-- Full ML lifecycle management
-- Production-ready with IAM security
-- Automated CI/CD integration
-- Cost savings: 40% reduction in ML infrastructure costs
+**What It Actually Does:**
+- Automated EKS cluster provisioning with Terraform
+- SageMaker model training and deployment endpoints
+- S3 storage for training data and model artifacts
+- API Gateway exposing ML models via REST API
+- GitHub Actions CI/CD pipeline for infrastructure and model deployment
+- One-command setup with validation and cleanup scripts
+- Complete dependency validation and error handling
 
 ---
 
 ### [OpenAI Kubernetes Platform](https://github.com/soodrajesh/openai-eks-project1)
 
-**Scalable AI API on Kubernetes**
+**Flask API with GPT-4o mini on EKS**
 
-Production Flask-based API leveraging OpenAI GPT-4o mini, deployed on AWS EKS with enterprise security and monitoring.
+Simple Flask-based API that uses OpenAI's GPT-4o mini model for text generation, containerized and deployed on AWS EKS with automated CI/CD.
 
 **Tech Stack:** `AWS EKS` `Kubernetes` `OpenAI API` `Flask` `Docker` `GitHub Actions`
 
-**Business Impact:**
-- Security hardened with non-root containers
-- Production monitoring and health checks
-- Auto-scaling Kubernetes deployment
-- Automated CI/CD pipeline
-- Scalability: Handles 10K+ concurrent requests
+**What It Actually Does:**
+- Flask API server for text generation using OpenAI GPT-4o mini
+- Docker containerization for easy deployment
+- Kubernetes deployment on AWS EKS cluster
+- GitHub Actions workflow for automated CI/CD
+- Simple API endpoint for text generation based on user prompts
+- Basic Kubernetes manifests for deployment and service
 
 ---
 
 ### [Enterprise Monitoring Stack](https://github.com/soodrajesh/k8s-grafana-prometheus)
 
-**Production-Ready Kubernetes Observability Platform**
+**Kubernetes Monitoring with Prometheus & Grafana**
 
-Comprehensive enterprise monitoring solution with Prometheus, Grafana, AlertManager, and complete automation for production Kubernetes environments.
+Complete monitoring solution for Kubernetes clusters featuring Prometheus, Grafana, AlertManager, and comprehensive observability tools.
 
-**Tech Stack:** `Kubernetes` `Prometheus` `Grafana` `AlertManager` `Helm` `RBAC` `Network Policies` `Node Exporter`
+**Tech Stack:** `Kubernetes` `Prometheus` `Grafana` `AlertManager` `Helm` `Node Exporter` `kube-state-metrics`
 
-**Business Impact:**
-- One-command deployment with automated scripts
-- Security-first design with RBAC and network policies
-- Pre-built dashboards for cluster and application metrics
-- Intelligent alerting with multi-channel notifications
-- Automated backup and disaster recovery procedures
-- Enterprise compliance ready (SOC2, ISO27001)
-- Monitoring coverage: 99.9% of critical infrastructure components
+**What It Actually Does:**
+- Prometheus for metrics collection and storage
+- Grafana dashboards for visualization
+- AlertManager for intelligent alerting and notifications
+- Node Exporter for host-level metrics
+- kube-state-metrics for Kubernetes object monitoring
+- Blackbox Exporter for endpoint monitoring
+- Helm-based deployment with production-ready configurations
+- RBAC and security policies included
 
 ---
 
 ### [Advanced GitOps Infrastructure](https://github.com/soodrajesh/argocd-setup)
 
-**Enterprise ArgoCD GitOps Platform with Security & Automation**
+**Enterprise ArgoCD Platform with Security & Automation**
 
-Complete production-ready ArgoCD platform featuring automated installation, enterprise security policies, monitoring integration, and comprehensive backup/recovery automation for scalable multi-cluster GitOps operations.
+Complete ArgoCD setup for enterprise Kubernetes environments with automated installation, security policies, and monitoring integration.
 
-**Tech Stack:** `ArgoCD` `Kubernetes` `Helm` `RBAC` `Network Policies` `Prometheus` `OIDC` `TLS` `Bash Automation`
+**Tech Stack:** `ArgoCD` `Kubernetes` `Helm` `RBAC` `Prometheus` `OIDC` `TLS`
 
-**Business Impact:**
-- One-command deployment with `install.sh` automation and HA support
-- Enterprise security with RBAC policies, network isolation, and OIDC integration
-- Complete observability with Prometheus metrics, alerts, and ServiceMonitors
-- Automated operations with backup/recovery and application deployment scripts
-- Compliance ready (SOC2, ISO27001) with comprehensive security documentation
-- Multi-cluster GitOps with automated application synchronization and health monitoring
-- Security-first design with least-privilege access and encrypted communications
-- Deployment efficiency: 80% faster application deployments
+**What It Actually Does:**
+- Automated ArgoCD installation with one-command deployment
+- RBAC policies and network security configurations
+- Multi-environment support (dev/staging/prod)
+- High availability setup for production environments
+- Prometheus metrics and monitoring integration
+- Automated backup and recovery procedures
+- OIDC integration for enterprise authentication
+- Complete Terraform and Helm configurations
 
 ---
 

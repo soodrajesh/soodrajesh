@@ -202,7 +202,6 @@ Complete ArgoCD setup for enterprise Kubernetes environments with automated inst
 - Prometheus metrics and monitoring integration
 - Automated backup and recovery procedures
 - OIDC integration for enterprise authentication
-- Complete Terraform and Helm configurations
 
 **🛡️ Browse the repo to examine:** Security configurations, automation scripts, and enterprise-ready ArgoCD setup
 

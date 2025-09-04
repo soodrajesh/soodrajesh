@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+Engineering+%26+DevOps+Expert;AI%2FML+Enthusiast;14%2B+Years+of+Experience;Kubernetes+%26+Terraform+Specialist)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+Engineering+%26+DevOps+Expert;AI%2FML+Enthusiast;10%2B+Years+of+Experience;Kubernetes+%26+Terraform+Specialist)
 
 **Senior Cloud Engineering & DevOps Specialist**
 
@@ -19,7 +19,7 @@ _Transforming complex infrastructure challenges into elegant, scalable solutions
 
 ## 🧑🏻‍💻 About Me
 
-I'm a Senior Cloud Engineering and DevOps specialist with 14+ years of hands-on experience building enterprise-scale cloud infrastructure. I specialize in Cloud Engineering, building AI/ML infrastructure, Kubernetes orchestration, and automated DevOps pipelines for modern applications.
+I'm a Senior Cloud Engineering and DevOps specialist with 10+ years of hands-on experience building enterprise-scale cloud infrastructure. I specialize in Cloud Engineering, building AI/ML infrastructure, Kubernetes orchestration, and automated DevOps pipelines for modern applications.
 
 **What Makes Me Different:**
 - **Business-Outcome Focused**: I don't just deploy infrastructure—I architect solutions that drive measurable business results

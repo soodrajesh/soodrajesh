@@ -1,5 +1,4 @@
-# Building Cloud-First Futures | Rajesh Sood
-
+# Building Cloud-First Futures | Raj S
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+Engineering+%26+DevOps+Expert;AI%2FML+Enthusiast;10%2B+Years+of+Experience;Kubernetes+%26+Terraform+Specialist)

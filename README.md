@@ -45,7 +45,7 @@ daily_tools:
 
 ---
 
-## Projects Worth Checking Out
+## My Projects Worth Checking Out
 
 ### [AI Document Processing with MCP Server](https://github.com/soodrajesh/mcp-ecs-s3-api-poc)
 
@@ -111,7 +111,7 @@ Production-ready ArgoCD setup with RBAC, monitoring, and security policies. One-
 
 ---
 
-## Certifications (Because Sometimes They Matter)
+## Certifications
 
 **AWS:** Solutions Architect Professional, Developer Associate, SysOps Administrator Associate
 

@@ -16,19 +16,19 @@ Building infrastructure that doesn't wake you up at 3 AM
 
 ## What I Do
 
-I build cloud infrastructure that scales. Not the "we handle 10 requests per day" kind of scales—the real kind where you're dealing with millions of users, unpredictable traffic, and a boss asking why the AWS bill went up.
+I build cloud infrastructure that scales, where you're dealing with millions of users, unpredictable traffic.
 
-Over the past 10+ years, I've worked with companies trying to figure out Kubernetes, migrate to the cloud, or get their ML models to actually work in production (spoiler: it's harder than it looks). I spend my time in AWS, Azure, and GCP, writing Terraform configs, fixing broken pipelines, and occasionally explaining to developers why they can't just SSH into production servers.
+Over the past 10+ years, I've worked with companies trying to figure out Kubernetes, migrate to the cloud, or get their ML models to actually work in production. I spend my time in AWS, Azure, and GCP, writing Terraform configs, Python/Bash scripts, fixing broken pipelines, and occasionally explaining to developers why they can't just SSH into production servers.
 
 ### Here's What I'm Good At
 
 **Cloud Infrastructure** - I've designed and built systems across AWS, Azure, and GCP. Multi-cloud isn't a buzzword for me; it's what happens when your company acquires another company that uses a different cloud provider.
 
-**Kubernetes & Containers** - EKS, AKS, GKE—pick your flavor. I've set up clusters, debugged networking issues at 2 AM, and written Helm charts that don't make you want to cry.
+**Kubernetes & Containers** - EKS, AKS, GKE—pick your flavor. I've set up clusters, debugged networking issues at 2 AM.
 
 **AI/ML Operations** - Getting a model to 95% accuracy in a Jupyter notebook is cool. Getting it to serve predictions reliably in production? That's where the real work starts. I build the infrastructure that makes ML teams productive.
 
-**Cost Optimization** - I once cut infrastructure costs by 45% without anyone noticing (except finance, they loved it). Turns out, you don't need a m5.24xlarge instance to run a cron job.
+**Cost Optimization** - I once cut infrastructure costs by 45% (finance team, they loved it). Turns out, you don't need a m5.24xlarge instance to run a cron job.
 
 **Security** - I implement security from day one, not as an afterthought when the CISO sends an angry email. IAM policies, network segmentation, secrets management—the boring stuff that keeps you from becoming a headline.
 

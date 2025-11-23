@@ -4,7 +4,7 @@
 
 **Cloud Engineer | DevOps | AI/ML Infrastructure**
 
-Building infrastructure that doesn't wake you up at 3 AM
+Building infrastructure that doesn't wake you up at 2 AM
 
 
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=flat-square&logo=gmail)](mailto:soodrajesh87@gmail.com)

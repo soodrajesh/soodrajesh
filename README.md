@@ -146,8 +146,6 @@ I've probably dealt with something similar. Let's talk.
 
 **Email:** [soodrajesh87@gmail.com](mailto:soodrajesh87@gmail.com)
 
-**LinkedIn:** [linkedin.com/in/irajeshsood](https://linkedin.com/in/irajeshsood)
-
 **Medium:** [medium.com/@soodrajesh](https://medium.com/@soodrajesh)
 
 ---

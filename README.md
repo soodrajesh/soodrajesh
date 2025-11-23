@@ -1,102 +1,127 @@
-# Building Cloud-First Futures | Raj S
+# Hey there! 👋 I'm Raj
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+Engineering+%26+DevOps+Expert;AI%2FML+Enthusiast;10%2B+Years+of+Experience;Kubernetes+%26+Terraform+Specialist)
 
-**Senior Cloud Engineering & DevOps Specialist**
+**Cloud Engineering & DevOps Specialist | Building Infrastructure that scales**
 
-_Transforming complex infrastructure challenges into elegant, scalable solutions_
+_Been doing this for 10+ years, still learning every day_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irajeshsood)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soodrajesh87@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soodrajesh)
+
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@soodrajesh)
 
 </div>
 
 ---
 
-## 🧑🏻‍💻 About Me
+## About Me
 
-I'm a Senior Cloud Engineering and DevOps specialist with 10+ years of hands-on experience building enterprise-scale cloud infrastructure. I specialize in Cloud Engineering, building AI/ML infrastructure, Kubernetes orchestration, and automated DevOps pipelines for modern applications.
+I'm a cloud engineer who's been building infrastructure for over a decade. I spend most of my time working with AWS, Kubernetes, Terraform, and lately a lot of AI/ML infra. I like solving real problems, not just deploying fancy tech for the sake of it.
 
-**What Makes Me Different:**
-- **Business-Outcome Focused**: I don't just deploy infrastructure—I architect solutions that drive measurable business results
-- **AI/ML Infrastructure Pioneer**: Early adopter and expert in production ML pipelines, not just theory
-- **Multi-Cloud Strategist**: Deep expertise across AWS, Azure, and GCP with real-world migration experience
-- **Security-First Architect**: Every solution is built with compliance and zero-trust principles from day one
+**What I care about:**
+
+- **Actually solving problems** - I try to focus on what the business needs, not just what's cool
+
+- **AI/ML in production** - Been working with ML infrastructure for a while now, and it's been interesting figuring out how to make it work reliably
+
+- **Multi-cloud reality** - Most companies use more than one cloud, so I've gotten comfortable with AWS, Azure, and GCP
+
+- **Security from the start** - Learned the hard way that bolting security on later doesn't work well
 
 ```yaml
-specialties:
-  cloud_platforms: ["AWS", "Azure", "GCP"]
-  infrastructure_as_code: ["Terraform", "Terragrunt", "CloudFormation"]
-  container_orchestration: ["Kubernetes", "EKS", "Docker"]
-  ai_ml_services: ["SageMaker", "Bedrock", "OpenAI"]
-  gitops_tools: ["ArgoCD", "Helm", "Kustomize"]
+what_i_work_with:
+  clouds: ["AWS", "Azure", "GCP"]
+  infrastructure: ["Terraform", "Terragrunt", "CloudFormation"]
+  containers: ["Kubernetes", "EKS", "Docker"]
+  ai_ml: ["SageMaker", "Bedrock", "OpenAI"]
+  gitops: ["ArgoCD", "Helm", "Kustomize"]
   monitoring: ["Prometheus", "Grafana", "CloudWatch"]
   ci_cd: ["GitHub Actions", "Jenkins", "Artifactory"]
 ```
 
-### 💼 What I Deliver
+### What I Actually Do
 
-- **Enterprise AI/ML Infrastructure**: Production-ready ML infrastructure and pipelines
-- **Multi-Cloud Architecture**: Scalable, resilient infrastructure across AWS, Azure, GCP
-- **GitOps & Automation**: End-to-end CI/CD pipelines with infrastructure as code
-- **Observability & Monitoring**: Comprehensive monitoring stacks with Prometheus/Grafana
-- **Security-First Design**: Zero-trust architecture with automated compliance
-- **Cost Optimization**: 45% reduction in operational costs through intelligent automation
+- **ML Infrastructure** - Setting up the plumbing so ML models can run in production without breaking
+
+- **Multi-cloud setups** - Building solutions that works across different clouds because that's usually what companies need
+
+- **Automation** - Writing scripts and pipelines so we don't have to do the same thing manually 50 times
+
+- **Monitoring** - Making sure we know when things break before users do
+
+- **Security** - Trying to build things securely from the beginning (easier said than done)
+
+- **Cost Optimization** - Helped cut costs by about 45% at one place by just being smarter about how we used resources
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### ☁️ Cloud Platforms
+### ☁️ Clouds I Work With
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🏗️ Infrastructure & Orchestration
+### 🏗️ Infrastructure
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ### 🔄 CI/CD & Automation
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### 🤖 ML & AI Services
+### 🤖 ML & AI
 
 ![SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 💻 Programming & Scripting
+### 💻 Languages & Scripts
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-### 📊 Monitoring & Observability
+### 📊 Monitoring
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Portfolio Highlights
+## Some Projects I've Built
 
 <div align="center">
 
-**Public Repositories | Production-Ready Solutions | Enterprise-Grade Architecture**
+**Solutions I've actually deployed and used | Open source repos | Real code**
 
 </div>
 
@@ -104,209 +129,268 @@ specialties:
 
 ### 1. 🤖 [AI Document Processing Platform](https://github.com/soodrajesh/mcp-ecs-s3-api-poc)
 
-**Model Context Protocol (MCP) Server with S3 Integration**
+**MCP Server with S3 Integration**
 
-A production-ready MCP server that enables AI models (via Amazon Bedrock) to fetch and summarize text files from S3 buckets. Built with serverless architecture using ECS Fargate, Lambda, and API Gateway.
+Built an MCP server that lets AI models (via Bedrock) read and summarize files from S3. Used ECS Fargate, Lambda, and API Gateway because serverless is usually simpler.
 
-**Tech Stack:** `AWS ECS` `Bedrock` `S3` `Lambda` `API Gateway` `Terraform` `Docker` `Python`
+**Tech:** `AWS ECS` `Bedrock` `S3` `Lambda` `API Gateway` `Terraform` `Docker` `Python`
 
-**What It Actually Does:**
-- MCP server that integrates with Amazon Bedrock for AI-powered document processing
-- S3 file upload triggers Lambda functions to process new documents
-- ECS Fargate service with auto-scaling capabilities
-- API Gateway with API key authentication for secure access
-- Comprehensive CloudWatch monitoring and SNS alerting
-- Complete Terraform infrastructure as code
+**What it does:**
 
-**🚀 Check out the repo to see:** Complete Terraform configurations, Docker setup, and production-ready monitoring
+- MCP server that talks to Amazon Bedrock for document processing.
 
----
+- When files get uploaded to S3, Lambda processes them automatically.
 
-### 2. 🚀 [Complete ML Infrastructure Platform](https://github.com/soodrajesh/my-cloud-ai-demo)
+- ECS Fargate service that scales up/down as needed
 
-**EKS + SageMaker + API Gateway ML Pipeline**
+- API Gateway with API keys (because security matters)
 
-End-to-end ML infrastructure with EKS, SageMaker, S3, and API Gateway. Includes automated CI/CD via GitHub Actions and one-command deployment scripts.
+- CloudWatch monitoring and SNS alerts.
 
-**Tech Stack:** `AWS EKS` `SageMaker` `S3` `API Gateway` `Terraform` `GitHub Actions` `Docker` `Python`
+- All infrastructure in Terraform.
 
-**What It Actually Does:**
-- Automated EKS cluster provisioning with Terraform
-- SageMaker model training and deployment endpoints
-- S3 storage for training data and model artifacts
-- API Gateway exposing ML models via REST API
-- GitHub Actions CI/CD pipeline for infrastructure and model deployment
-- One-command setup with validation and cleanup scripts
-- Complete dependency validation and error handling
-
-**🔍 Explore the repo to discover:** One-command deployment scripts, CI/CD workflows, and production ML pipeline setup
+**Check it out if you want to see:** How to set up MCP servers, Terraform configs, and monitoring that actually works
 
 ---
 
-### 3. 🎯 [OpenAI Kubernetes Platform](https://github.com/soodrajesh/openai-eks-project1)
+### 2. 🚀 [ML Infrastructure Platform](https://github.com/soodrajesh/my-cloud-ai-demo)
+
+**EKS + SageMaker + API Gateway**
+
+End-to-end ML setup with EKS, SageMaker, and API Gateway. Has GitHub Actions for CI/CD and scripts to deploy everything with one command.
+
+**Tech:** `AWS EKS` `SageMaker` `S3` `API Gateway` `Terraform` `GitHub Actions` `Docker` `Python`
+
+**What it does:**
+
+- Terraform scripts to spin up an EKS cluster automatically
+
+- SageMaker for training and deploying models
+
+- S3 for storing data and model artifacts
+
+- API Gateway to expose models via REST API
+
+- GitHub Actions pipeline that deploys infrastructure and models
+
+- One command to set everything up (with validation and cleanup)
+
+- Proper error handling (because things always break)
+
+**Worth looking at for:** Deployment scripts, CI/CD workflows, and how to actually run ML models in production
+
+---
+
+### 3. 🎯 [OpenAI on Kubernetes](https://github.com/soodrajesh/openai-eks-project1)
 
 **Flask API with GPT-4o mini on EKS**
 
-Simple Flask-based API that uses OpenAI's GPT-4o mini model for text generation, containerized and deployed on AWS EKS with automated CI/CD.
+Simple Flask API using OpenAI's GPT-4o mini, containerized and running on EKS. Nothing fancy, just works.
 
-**Tech Stack:** `AWS EKS` `Kubernetes` `OpenAI API` `Flask` `Docker` `GitHub Actions`
+**Tech:** `AWS EKS` `Kubernetes` `OpenAI API` `Flask` `Docker` `GitHub Actions`
 
-**What It Actually Does:**
-- Flask API server for text generation using OpenAI GPT-4o mini
-- Docker containerization for easy deployment
-- Kubernetes deployment on AWS EKS cluster
-- GitHub Actions workflow for automated CI/CD
-- Simple API endpoint for text generation based on user prompts
-- Basic Kubernetes manifests for deployment and service
+**What it does:**
 
-**📖 Dive into the repo to see:** Kubernetes manifests, GitHub Actions workflow, and Flask API implementation
+- Flask API that calls OpenAI GPT-4o mini for text generation
 
----
+- Dockerized for easy deployment
 
-### 4. 📊 [Enterprise Monitoring Stack](https://github.com/soodrajesh/k8s-grafana-prometheus)
+- Runs on EKS
 
-**Kubernetes Monitoring with Prometheus & Grafana**
+- GitHub Actions for CI/CD
 
-Complete monitoring solution for Kubernetes clusters featuring Prometheus, Grafana, AlertManager, and comprehensive observability tools.
+- Simple endpoint that takes prompts and returns generated text
 
-**Tech Stack:** `Kubernetes` `Prometheus` `Grafana` `AlertManager` `Helm` `Node Exporter` `kube-state-metrics`
+- Basic K8s manifests (deployment and service)
 
-**What It Actually Does:**
-- Prometheus for metrics collection and storage
-- Grafana dashboards for visualization
-- AlertManager for intelligent alerting and notifications
-- Node Exporter for host-level metrics
-- kube-state-metrics for Kubernetes object monitoring
-- Blackbox Exporter for endpoint monitoring
-- Helm-based deployment with production-ready configurations
-- RBAC and security policies included
-
-**⚡ Visit the repo to explore:** Helm charts, monitoring configurations, and production-ready dashboards
+**Good for seeing:** How to deploy a simple API on Kubernetes, GitHub Actions setup, and Flask integration
 
 ---
 
-### 5. 🔄 [Advanced GitOps Infrastructure](https://github.com/soodrajesh/argocd-setup)
+### 4. 📊 [K8s Monitoring Stack](https://github.com/soodrajesh/k8s-grafana-prometheus)
 
-**Enterprise ArgoCD Platform with Security & Automation**
+**Prometheus & Grafana for Kubernetes**
 
-Complete ArgoCD setup for enterprise Kubernetes environments with automated installation, security policies, and monitoring integration.
+Monitoring setup for K8s clusters with Prometheus, Grafana, AlertManager, and the usual observability tools.
 
-**Tech Stack:** `ArgoCD` `Kubernetes` `RBAC` `Prometheus` `OIDC` `TLS`
+**Tech:** `Kubernetes` `Prometheus` `Grafana` `AlertManager` `Helm` `Node Exporter` `kube-state-metrics`
 
-**What It Actually Does:**
-- Automated ArgoCD installation with one-command deployment
-- RBAC policies and network security configurations
-- Multi-environment support (dev/staging/prod)
-- High availability setup for production environments
-- Prometheus metrics and monitoring integration
-- Automated backup and recovery procedures
-- OIDC integration for enterprise authentication
+**What it does:**
 
-**🛡️ Browse the repo to examine:** Security configurations, automation scripts, and enterprise-ready ArgoCD setup
+- Prometheus collecting and storing metrics
+
+- Grafana dashboards to visualize everything
+
+- AlertManager for notifications (so I don't have to watch dashboards 24/7)
+
+- Node Exporter for host metrics
+
+- kube-state-metrics for K8s object monitoring
+
+- Blackbox Exporter to check if endpoints are up
+
+- Helm charts for easy deployment
+
+- RBAC and security policies included (because default K8s security isn't great)
+
+**Useful for:** Setting up monitoring, Helm charts, and dashboards that actually show useful info
 
 ---
 
-**💡 Pro Tip:** Click on any project above to explore the full source code, documentation, and implementation details. Each repository contains production-ready configurations, setup scripts, and comprehensive documentation to help you understand the architecture and implementation approach.
+### 5. 🔄 [ArgoCD Setup](https://github.com/soodrajesh/argocd-setup)
+
+**ArgoCD for Enterprise K8s**
+
+ArgoCD setup with security, automation, and monitoring. Made it so you can deploy with one command.
+
+**Tech:** `ArgoCD` `Kubernetes` `RBAC` `Prometheus` `OIDC` `TLS`
+
+**What it does:**
+
+- ArgoCD installation that runs with one command
+
+- RBAC policies and network security configured
+
+- Supports multiple environments (dev/staging/prod)
+
+- High availability for production
+
+- Prometheus metrics integration
+
+- Automated backups (because losing configs sucks)
+
+- OIDC integration for authentication
+
+**Check it out for:** Security configs, automation scripts, and how to set up ArgoCD properly
 
 ---
 
-## 📈 Professional Impact & Metrics
+**Note:** All these repos have actual code, Terraform configs, and docs. Feel free to use them, fork them, or just see how I did things.
+
+---
+
+## Some Numbers
 
 <div align="center">
 
-| Focus Area | Experience | Impact |
+| Thing | What I Did | Result |
+
 |:---|:---|:---|
-| Cost Optimization | Infrastructure rightsizing & automation | **45% operational cost reduction** |
-| System Reliability | High-availability architectures | **99.9% uptime achieved** |
-| Deployment Automation | CI/CD pipeline optimization | **80% faster deployments** |
-| Security & Compliance | Security-first infrastructure design | **Zero security incidents** |
-| Scalable Architecture | Multi-region cloud deployments | **Global application delivery** |
-| AI/ML Infrastructure | Production ML pipeline deployment | **Automated ML model serving** |
+
+| Cost Optimization | Made infrastructure smarter | **Saved ~45% on ops costs** |
+
+| Reliability | Built HA architectures | **Got to 99.9% uptime** |
+
+| Deployment Speed | Automated CI/CD | **Deployments 80% faster** |
+
+| Security | Security-first design | **Zero security incidents** |
+
+| Scale | Multi-region deployments | **Global reach** |
+
+| ML Ops | Production ML pipelines | **Automated model serving** |
 
 </div>
 
 ---
 
-## ⭐ What Sets Me Apart
+## Why I'm Different (I Guess?)
 
-- **Business-Focused**: I don't just build infrastructure; I solve business problems
-- **Security-First**: Every solution is designed with security and compliance in mind
-- **Innovation-Driven**: Always exploring cutting-edge technologies like AI/ML integration
-- **Continuous Learning**: Staying ahead with the latest cloud and DevOps trends
-- **Team Leadership**: Mentoring teams and fostering a culture of excellence
+- **I focus on solving problems** - Not just deploying tech for the sake of it
 
----
+- **Security matters** - I try to build things securely from the start
 
-## 🔧 Technical Interests & Expertise
+- **Always learning** - The cloud world changes fast, so I keep up with new tools
 
-I'm passionate about sharing knowledge and exploring topics in:
+- **I share what I learn** - Write on Medium sometimes, help teams when I can
 
-- **Cloud Architecture Patterns** - Scalable design principles and implementations
-- **DevOps Best Practices** - Automation strategies and CI/CD optimization
-- **Cloud Security** - Security-first infrastructure design
-- **Cost Optimization** - Efficient cloud resource management
-- **AI/ML Operations** - MLOps pipelines and infrastructure
-
-**[Connect with me on Medium](https://medium.com/@soodrajesh)**
+- **Practical over perfect** - Sometimes good enough is actually good enough
 
 ---
 
-## 🎯 Current Focus & Recent Achievements
+## What I'm Into
+
+I write about and work on:
+
+- **Cloud architecture** - How to design solutions that actually scales
+
+- **DevOps practices** - Automation and CI/CD that doesn't suck
+
+- **Cloud security** - Building secure infrastructure
+
+- **Cost optimization** - Making cloud bills less painful
+
+- **MLOps** - Getting ML models to production without too much pain
+
+**[Read my blogs on Medium](https://medium.com/@soodrajesh)**
+
+---
+
+## What I'm Working On Now
+
+- **MLOps** - Making ML pipelines that don't break in production
+
+- **Zero Trust** - Security architectures that make sense
+
+- **Cost** - FinOps and cloud cost management
+
+- **Green cloud** - Trying to be more efficient with resources
+
+---
+
+## Certifications
 
 <div align="center">
 
-</div>
-
-- **AI/ML Operations**: Implementing MLOps pipelines and AI model deployment
-- **Zero Trust Security**: Building next-gen security architectures
-- **Sustainable Computing**: Green cloud initiatives and carbon footprint reduction
-- **FinOps**: Advanced cloud cost optimization and governance
-
----
-
-## 🏅 Certifications & Expertise
-
-<div align="center">
-
-### 🎖️ AWS Certifications
+### 🎖️ AWS
 
 ![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ![AWS SysOps Administrator Associate](https://img.shields.io/badge/AWS-SysOps%20Administrator%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🌐 Multi-Cloud Certifications
+### 🌐 Other Clouds
 
 ![Google Cloud Professional Cloud Architect](https://img.shields.io/badge/GCP-Professional%20Cloud%20Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 ![Microsoft Azure Infrastructure](https://img.shields.io/badge/Azure-Implementing%20Infrastructure%20Solutions-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 ![Alibaba Cloud Associate](https://img.shields.io/badge/Alibaba%20Cloud-Associate-FF6A00?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🔗 Networking & Oracle Cloud
+### 🔗 Networking & Oracle
 
 ![Aviatrix Multi-Cloud Network Associate](https://img.shields.io/badge/Aviatrix-Multi--Cloud%20Network%20Associate-00A1C9?style=for-the-badge&logo=aviatrix&logoColor=white)
+
 ![Oracle Cloud Developer 2020](https://img.shields.io/badge/Oracle%20Cloud-Developer%202020%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 ![Oracle Cloud Foundations 2020](https://img.shields.io/badge/Oracle%20Cloud-Foundations%202020%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**[View All Certifications on Credly](https://www.credly.com/users/rajeshsood/badge)**
+**[All my certs on Credly](https://www.credly.com/users/rajeshsood/badge)**
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Talk!
 
-I'm always excited to discuss cloud architecture, DevOps best practices, or potential collaborations. Whether you're looking to:
+Always happy to chat about cloud, DevOps, or whatever. If you're working on:
 
-- **Architect** a new cloud solution
-- **Optimize** your existing infrastructure
-- **Implement** DevOps best practices
-- **Integrate** AI/ML into your operations
+- **Cloud architecture** - Need help designing something?
 
-**Let's build something amazing together!**
+- **Infrastructure optimization** - Want to make things faster/cheaper?
+
+- **DevOps** - Setting up CI/CD or automation?
+
+- **AI/ML infrastructure** - Getting models into production?
+
+**Hit me up!**
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irajeshsood)
+
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soodrajesh87@gmail.com)
+
 [![Medium](https://img.shields.io/badge/Read_My_Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@soodrajesh)
 
 </div>
@@ -317,6 +401,7 @@ I'm always excited to discuss cloud architecture, DevOps best practices, or pote
 
 _"The best way to predict the future is to build it."_
 
-**⭐ Star my repositories if you find them helpful!**
+**⭐ Star my repos if you find them useful!**
 
 </div>
+

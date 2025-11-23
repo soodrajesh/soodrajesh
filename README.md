@@ -6,7 +6,7 @@
 
 Building infrastructure that doesn't wake you up at 3 AM
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/irajeshsood)
+
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=flat-square&logo=gmail)](mailto:soodrajesh87@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=flat-square&logo=medium)](https://medium.com/@soodrajesh)
 

@@ -61,11 +61,17 @@ what_i_work_with:
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+
 
 <div align="center">
 
-### ☁️ Clouds I Work With
+
+
+### ☁️ Cloud Platforms
+
+
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -73,7 +79,11 @@ what_i_work_with:
 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🏗️ Infrastructure
+
+
+### 🏗️ Infrastructure & Orchestration
+
+
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
@@ -83,13 +93,21 @@ what_i_work_with:
 
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
+
+
 ### 🔄 CI/CD & Automation
+
+
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### 🤖 ML & AI
+
+
+### 🤖 ML & AI Services
+
+
 
 ![SageMaker](https://img.shields.io/badge/Amazon_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -97,7 +115,11 @@ what_i_work_with:
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 💻 Languages & Scripts
+
+
+### 💻 Programming & Scripting
+
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -105,13 +127,19 @@ what_i_work_with:
 
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-### 📊 Monitoring
+
+
+### 📊 Monitoring & Observability
+
+
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+
 
 </div>
 

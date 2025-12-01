@@ -40,7 +40,7 @@ daily_tools:
   ai_ml: [SageMaker, Bedrock, OpenAI API]
   cicd: [GitHub Actions, Jenkins, Artifactory]
   monitoring: [Prometheus, Grafana, CloudWatch, Datadog]
-  languages: [Python, Bash, YAML (yes, YAML counts)]
+  languages: [Python, Bash, YAML ]
 ```
 
 ---

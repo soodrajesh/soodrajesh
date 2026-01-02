@@ -1,4 +1,4 @@
-# Hi, I'm Rajesh Sood, MBA 👋
+# Hi, I'm Rajesh Sood
 
 **Staff Cloud Architect | AI/ML Platform Engineering | 15+ Years Enterprise Strategy**
 

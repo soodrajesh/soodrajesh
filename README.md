@@ -8,7 +8,7 @@ Building scalable foundations that let engineering teams ship faster—without t
 ## 🏗️ Architectural Vision & Business Impact
 Bridging complex cloud architecture with organizational growth. With 15+ years, I design scalable, cost-efficient systems for faster shipping without security trade-offs.
 
-**At Workday:** Operationalizing Generative AI (RAG, Bedrock) and SageMaker at enterprise scale.
+**At Work:** Operationalizing Generative AI (RAG, Bedrock) and SageMaker at enterprise scale.
 
 **Key Wins:** $400K+ cloud savings via FinOps; enabling 10+ squads for 99.99% reliability.
 

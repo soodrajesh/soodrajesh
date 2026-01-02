@@ -93,5 +93,3 @@ Sharing MLOps and cloud strategy lessons on [Medium](https://medium.com/@soodraj
 **Email:** [soodrajesh87@gmail.com](mailto:soodrajesh87@gmail.com) · **Medium:** [medium.com/@soodrajesh](https://medium.com/@soodrajesh) · **LinkedIn:** [linkedin.com/in/rajesh-sood](https://linkedin.com/in/irajeshsood) <!-- Add your LinkedIn URL -->
 
 If my repos help, star them. Bugs? Open an issue. Chat? Email me.
-
-![Visitor Count](https://profile-counter.glitch.me/soodrajesh/count.svg)

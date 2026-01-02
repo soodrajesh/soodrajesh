@@ -4,8 +4,6 @@
 
 Building scalable foundations that let engineering teams ship faster—without the 2 AM pages.
 
-Add a custom banner for visual appeal -->
-
 ---
 ## 🏗️ Architectural Vision & Business Impact
 Bridging complex cloud architecture with organizational growth. With 15+ years, I design scalable, cost-efficient systems for faster shipping without security trade-offs.

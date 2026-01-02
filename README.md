@@ -105,7 +105,6 @@ Flask API using GPT-4o mini, containerized and running on EKS. A straightforward
 | **Azure Implementing Infrastructure Solutions** | |
 | **Aviatrix Multi-Cloud Network Associate** | |
 | **Oracle Cloud Developer & Foundations** | |
-| **MBA (Information Technology)** | Leveraging business acumen to align technical debt reduction with corporate ROI |
 
 [View all certifications on Credly →](https://www.credly.com/users/rajeshsood/badges)
 
@@ -135,9 +134,6 @@ I actively write about MLOps and Cloud Strategy on [Medium](https://medium.com/@
 
 **Email:** [soodrajesh87@gmail.com](mailto:soodrajesh87@gmail.com) · **Medium:** [medium.com/@soodrajesh](https://medium.com/@soodrajesh)
 
-![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soodrajesh&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soodrajesh&layout=compact&theme=radical)
 
 **If you find any of my repos useful, star them. If you find bugs, open an issue. If you want to chat, send me an email.**
 

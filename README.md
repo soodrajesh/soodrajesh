@@ -4,7 +4,7 @@
 
 Building scalable foundations that let engineering teams ship faster—without the 2 AM pages.
 
-![Banner Image](https://your-banner-url-here.com/image.png) <!-- Add a custom banner for visual appeal -->
+Add a custom banner for visual appeal -->
 
 ---
 ## 🏗️ Architectural Vision & Business Impact

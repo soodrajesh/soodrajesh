@@ -1,13 +1,9 @@
 ```markdown
 # Hi, I'm Rajesh Sood, MBA 👋
 
-<div align="center">
-
 **Staff Cloud Architect | AI/ML Platform Engineering | 15+ Years Enterprise Strategy**
 
 Building the scalable foundations that let engineering teams ship faster—without the 2 AM pages.
-
-</div>
 
 ---
 
@@ -133,8 +129,6 @@ I actively write about MLOps and Cloud Strategy on [Medium](https://medium.com/@
 
 ---
 
-<div align="center">
-
 > *"A Staff Engineer's code is their architecture; their output is the team's success."*
 
 ---
@@ -147,5 +141,4 @@ I actively write about MLOps and Cloud Strategy on [Medium](https://medium.com/@
 
 **If you find any of my repos useful, star them. If you find bugs, open an issue. If you want to chat, send me an email.**
 
-</div>
 ```

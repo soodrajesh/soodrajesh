@@ -7,10 +7,6 @@
 
 Building the scalable foundations that let engineering teams ship faster—without the 2 AM pages.
 
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=flat-square&logo=gmail)](mailto:soodrajesh87@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=flat-square&logo=medium)](https://medium.com/@soodrajesh)
-[![Credly](https://img.shields.io/badge/Certifications-Credly-FF6B00?style=flat-square&logo=credly)](https://www.credly.com/users/rajeshsood/badges)
-
 </div>
 
 ---

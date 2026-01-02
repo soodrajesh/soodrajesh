@@ -89,10 +89,8 @@ Collaborating on:
 ## 📝 What I'm Writing About
 Sharing MLOps and cloud strategy lessons on [Medium](https://medium.com/@soodrajesh).
 
-> *"A Staff Engineer's code is their architecture; their output is the team's success."*
-
 ---
-**Email:** [soodrajesh87@gmail.com](mailto:soodrajesh87@gmail.com) · **Medium:** [medium.com/@soodrajesh](https://medium.com/@soodrajesh) · **LinkedIn:** [linkedin.com/in/rajesh-sood](https://linkedin.com/in/rajesh-sood) <!-- Add your LinkedIn URL -->
+**Email:** [soodrajesh87@gmail.com](mailto:soodrajesh87@gmail.com) · **Medium:** [medium.com/@soodrajesh](https://medium.com/@soodrajesh) · **LinkedIn:** [linkedin.com/in/rajesh-sood](https://linkedin.com/in/irajeshsood) <!-- Add your LinkedIn URL -->
 
 If my repos help, star them. Bugs? Open an issue. Chat? Email me.
 

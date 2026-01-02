@@ -4,10 +4,6 @@
 
 Building scalable foundations that let engineering teams ship faster—without the 2 AM pages.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soodrajesh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soodrajesh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=soodrajesh&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Banner Image](https://your-banner-url-here.com/image.png) <!-- Add a custom banner for visual appeal -->
 
 ---

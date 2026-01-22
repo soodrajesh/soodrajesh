@@ -1,6 +1,6 @@
 # Hi, I'm Rajesh Sood
 
-**Staff Cloud Architect | AI/ML Platform Engineering | 15+ Years Enterprise Strategy**
+**Senior Cloud & DevOps Engineer | AI/ML Platform Engineering | SRE | 15+ Years Enterprise Strategy**
 
 Building scalable foundations that let engineering teams ship faster—without the 2 AM pages.
 

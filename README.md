@@ -163,18 +163,6 @@ currently:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeshsood&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1A7A6E&icon_color=FF9900&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsood&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1A7A6E&text_color=C9D1D9)
-
-</div>
-
----
-
 ## 🤝 What I'm Available For
 
 - **Cloud Security Architecture Reviews** — multi-account AWS, IaC security, CSPM strategy

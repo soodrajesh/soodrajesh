@@ -1,7 +1,7 @@
 <div align="center">
 
 # RAJESH SOOD
-### `Staff Cloud Architect · DevSecOps · AI/ML Platform Engineering`
+### `Staff DevOps Engineer · SRE · AI/ML Platform Engineering`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=1A7A6E&center=true&vCenter=true&width=700&lines=15%2B+Years+Enterprise+Cloud+%7C+AWS+%7C+Azure+%7C+GCP+%7C+OCI;Building+Secure%2C+AI-Powered+Cloud+Platforms+at+Scale;DevSecOps+%7C+Vulnerability+Automation+%7C+FinOps+%7C+SRE;AWS+Solutions+Architect+Professional+Certified)](https://git.io/typing-svg)
 

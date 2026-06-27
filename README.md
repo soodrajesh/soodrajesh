@@ -19,8 +19,8 @@
 ```yaml
 name: Rajesh Sood, MBA
 location: Dublin, Ireland
-role: Staff Cloud Architect · DevSecOps · AI/ML Platform Engineering
-experience: 15+ years enterprise cloud
+role: Staff DevOps Engineer · SRE · AI/ML Platform Engineering
+experience: 15+ years
 
 focus_areas:
   - Cloud Security Posture Management (Wiz, AWS Security Hub, Amazon Inspector)

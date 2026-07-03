@@ -1,6 +1,6 @@
 # Rajesh Sood
 
-Cloud and DevOps engineer based in Dublin. I've spent most of my career building and
+Cloud and DevOps Engineer based in Dublin, Ireland. I've spent most of my career building and
 running infrastructure on AWS, with Azure, GCP, and OCI along the way — Kubernetes,
 Terraform, CI/CD, and more recently the platform engineering work that comes with
 teams adopting Bedrock and SageMaker for GenAI/ML workloads.

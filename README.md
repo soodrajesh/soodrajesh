@@ -67,4 +67,4 @@ Verified badges: [Credly](https://www.credly.com/users/rajeshsood/badges/credly)
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/irajeshsood) · [Medium](https://medium.com/@soodrajesh) · [soodrajesh87@gmail.com](mailto:soodrajesh87@gmail.com)
+[LinkedIn](https://linkedin.com/in/irajeshsood) · [Medium](https://medium.com/@soodrajesh) · [rajeshsood1987@gmail.com](mailto:rajeshsood1987@gmail.com)

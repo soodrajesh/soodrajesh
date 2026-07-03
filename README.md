@@ -32,9 +32,9 @@ title, here's the specific evidence for why I think I'm ready for it:
   Architect runs during technical due diligence — I just ran it on my own portfolio
   first. Every repo's "Known gaps" section is the honest result of that pass, not a
   template.
-- **Multi-cloud is certified, not just claimed.** Professional-level AWS (Solutions
-  Architect), plus Associate/Professional certifications across GCP, Azure, and OCI —
-  see below.
+- **Multi-cloud experience is certified where it counts.** Professional-level AWS
+  (Solutions Architect) is current; I've also previously held certifications across
+  GCP, Azure, and OCI — see below.
 
 ## Repos
 
@@ -60,14 +60,9 @@ title, here's the specific evidence for why I think I'm ready for it:
 
 ## Certifications
 
-- AWS Solutions Architect – Professional
-- AWS Developer Associate
-- AWS SysOps Administrator Associate
-- Google Cloud Professional Architect
-- Azure Implementing Infrastructure Solutions
-- Oracle Cloud Developer & Foundations
-- Aviatrix Multi-Cloud Network Associate
+- AWS Solutions Architect – Professional (current)
+- Previously certified: Microsoft Azure, Google Cloud Professional Architect, Oracle OCI Architect
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/rajeshsood) · [soodrajesh87@gmail.com](mailto:soodrajesh87@gmail.com)
+[LinkedIn](https://linkedin.com/in/irajeshsood) · [soodrajesh87@gmail.com](mailto:soodrajesh87@gmail.com)

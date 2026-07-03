@@ -1,9 +1,9 @@
 # Rajesh Sood
 
-Senior DevOps / Cloud Engineer, Dublin — 15+ years on AWS, GCP, Azure, and OCI.
-Kubernetes, Terraform, and the CI/security tooling around them, plus recent work on
-GenAI platform engineering (Bedrock, SageMaker). Looking at Staff / Solutions
-Architect roles next.
+Senior DevOps / Cloud Engineer, Dublin — 15+ years on AWS, GCP, and Azure.
+Kubernetes, Terraform, and the CI/Security tooling around them, plus recent work on
+GenAI platform engineering (Bedrock, SageMaker). 
+Looking at Staff / Solutions Architect roles next.
 
 ## Repos
 

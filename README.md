@@ -1,6 +1,6 @@
 # Rajesh Sood
 
-Senior DevOps Engineer, Dublin — 15+ years on AWS. Own platform architecture,
+Senior DevOps Engineer, Dublin — 15+ years in IT, with deep AWS focus. Own platform architecture,
 security remediation at scale, and CI/CD for a production estate at Workday.
 Recent focus: AI/ML infrastructure — production inference wired into CI/CD on
 Bedrock, SageMaker training pipelines. Open to Staff/Senior DevOps, Platform

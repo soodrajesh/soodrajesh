@@ -1,37 +1,29 @@
 # Rajesh Sood
 
-Senior DevOps Engineer, Dublin — 15+ years in IT, with deep AWS focus. Own platform architecture,
-security remediation at scale, and CI/CD for a production estate at Workday.
-Recent focus: AI/ML infrastructure — production inference wired into CI/CD on
-Bedrock, SageMaker training pipelines. Open to Staff/Senior DevOps, Platform
-Engineering, and AI/ML Infrastructure roles.
+Senior DevOps Engineer, Dublin — 15+ years in IT, deep AWS focus. Own platform
+architecture, security remediation at scale, and CI/CD for a production estate
+at Workday. Recent focus: AI-assisted infra tooling and FinOps — a RAG CLI for
+on-call runbooks, a cost auditor that prices its own findings. Open to
+Staff/Senior DevOps, SRE, Cloud Engineering, Platform Engineering, and
+Solutions Architect roles.
 
 ---
 
-## AI/ML Platform
+## Observability, Cost & On-Call
 
-- **[Bedrock-Terraform-Infrastructure](https://github.com/soodrajesh/Bedrock-Terraform-Infrastructure)** — IAM-scoped Terraform for Bedrock access, with a CLI smoke test against Claude.
-- **[AWS-Sagemaker-MLOps-Pipeline](https://github.com/soodrajesh/AWS-Sagemaker-MLOps-Pipeline)** — SageMaker training pipeline (XGBoost + custom PyTorch container).
-- **[SageMaker-ML-Pipeline-Terraform-Lambda](https://github.com/soodrajesh/SageMaker-ML-Pipeline-Terraform-Lambda)** — same problem, Lambda-orchestrated — built as a second approach to compare against the pipeline above.
+- **[infra-runbook-rag](https://github.com/soodrajesh/infra-runbook-rag)** — CLI + Streamlit UI that answers on-call questions over an infra repo's own docs, with local embeddings and answers cited back to the exact section.
+- **[aws-cost-optimization](https://github.com/soodrajesh/aws-cost-optimization)** — Python CLI (not a Terraform demo) that scans an account for waste and prices findings against the live AWS pricing API — PDF report, ROI per fix, 54 tests, all run in CI.
+- **[Kubernetes-Prometheus-Grafana-Monitoring](https://github.com/soodrajesh/Kubernetes-Prometheus-Grafana-Monitoring)** — Helm-based Prometheus/Grafana/Alertmanager stack; CI renders the chart on every push.
 
-## Kubernetes & GitOps
+## GitOps & Kubernetes
 
-- **[GitOps-EKS-ArgoCD-Flask-Deployment](https://github.com/soodrajesh/GitOps-EKS-ArgoCD-Flask-Deployment)** — Terraform-provisioned EKS + ECR, ArgoCD reconciling plain manifests. CI runs real tests and `terraform validate` on every push.
-- **[Flask-ArgoCD-Kubernetes-Deployment](https://github.com/soodrajesh/Flask-ArgoCD-Kubernetes-Deployment)** — same GitOps loop, built around Kustomize and GitHub Actions instead.
+- **[minikube-gitops-platform](https://github.com/soodrajesh/minikube-gitops-platform)** — ArgoCD app-of-apps + kube-prometheus-stack + Gatekeeper, non-root/NetworkPolicy/Trivy baseline enforced on every sync.
+- **[Flask-ArgoCD-Kubernetes-Deployment](https://github.com/soodrajesh/Flask-ArgoCD-Kubernetes-Deployment)** — GitHub Actions → ArgoCD → Kubernetes, Kustomize overlays split by dev/prod.
+- **[GitOps-EKS-ArgoCD-Flask-Deployment](https://github.com/soodrajesh/GitOps-EKS-ArgoCD-Flask-Deployment)** — Terraform-provisioned EKS + ECR feeding the same ArgoCD loop; CI runs real tests and `terraform validate` on every push.
 
 ## Security & CI/CD
 
-- **[DevSecOps-Platform-Jenkins-SonarQube](https://github.com/soodrajesh/DevSecOps-Platform-Jenkins-SonarQube)** — self-hosted Jenkins, SonarQube, and shift-left scanners on a single EC2 host.
-
-## Observability & Cost
-
-- **[Kubernetes-Prometheus-Grafana-Monitoring](https://github.com/soodrajesh/Kubernetes-Prometheus-Grafana-Monitoring)** — Helm-based Prometheus/Grafana/Alertmanager stack; CI renders the chart on every push.
-- **[aws-cost-optimization](https://github.com/soodrajesh/aws-cost-optimization)** — Python CLI (not a Terraform demo) that scans an account for waste and prices findings against the live AWS pricing API. 54 tests, all run in CI.
-
-## Infrastructure as Code
-
-- **[Terraform-Terragrunt-AWS-MultiEnv-S3](https://github.com/soodrajesh/Terraform-Terragrunt-AWS-MultiEnv-S3)** — multi-environment Terragrunt layout.
-- **[crossplane-demo](https://github.com/soodrajesh/crossplane-demo)** — the same AWS provisioning problem via Crossplane, for comparison against Terraform.
+- **[DevSecOps-Platform-Jenkins-SonarQube](https://github.com/soodrajesh/DevSecOps-Platform-Jenkins-SonarQube)** — self-hosted Jenkins, SonarQube, and shift-left scanners (Checkov, Semgrep, OWASP Dependency-Check) on a single EC2 host.
 
 ---
 

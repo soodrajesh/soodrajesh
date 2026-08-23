@@ -9,9 +9,9 @@ Solutions Architect roles.
 
 ---
 
-## Observability & Cost
+## Observability, Cost & On-Call
 
-- **[infra-runbook-rag](https://github.com/soodrajesh/infra-runbook-rag)** — CLI + Streamlit UI that answers on-call questions ("why would this 502") over an infra repo's own docs, with local embeddings and answers cited back to the exact section.
+- **[infra-runbook-rag](https://github.com/soodrajesh/infra-runbook-rag)** — answers on-call questions ("why would this 502") over an infra repo's own docs, and routes real Prometheus Alertmanager alerts to the matching runbook section — retrieval-only, confidence-thresholded, no LLM call on the paging path.
 - **[aws-cost-optimization](https://github.com/soodrajesh/aws-cost-optimization)** — Python CLI (not a Terraform demo) that scans an account for waste and prices findings against the live AWS pricing API — PDF report, ROI per fix, 54 tests, all run in CI.
 - **[Kubernetes-Prometheus-Grafana-Monitoring](https://github.com/soodrajesh/Kubernetes-Prometheus-Grafana-Monitoring)** — Helm-based Prometheus/Grafana/Alertmanager stack; CI renders the chart on every push.
 

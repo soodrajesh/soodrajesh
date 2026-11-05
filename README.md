@@ -4,7 +4,7 @@ Senior DevOps Engineer, Dublin — 15+ years in IT, deep AWS focus. Own platform
 architecture, security remediation at scale, and CI/CD for a production estate
 at Workday. Recent focus: AI-assisted infra tooling and FinOps — a RAG CLI for
 on-call runbooks, a cost auditor that prices its own findings. Open to
-Staff/Senior DevOps, SRE, Cloud Engineering, Platform Engineering, and
+Senior DevOps, SRE, Cloud Engineering, Platform Engineering, and
 Solutions Architect roles.
 
 ---

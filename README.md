@@ -27,6 +27,6 @@ Solutions Architect roles.
 
 ---
 
-**Certifications:** AWS Solutions Architect – Professional (current) · Previously: Microsoft Azure, Google Cloud Professional Architect, Oracle OCI Architect. Verified badges: [Credly](https://www.credly.com/users/rajeshsood/badges/credly)
+**Certifications:** AWS Solutions Architect – Professional · AWS Generative AI Developer – Professional (Nov 2026) · Previously: Microsoft Azure, Google Cloud Professional Architect, Oracle OCI Architect. Verified badges: [Credly](https://www.credly.com/users/rajeshsood/badges/credly)
 
 **Contact:** [LinkedIn](https://linkedin.com/in/irajeshsood) · [Medium](https://medium.com/@soodrajesh)

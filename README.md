@@ -57,6 +57,11 @@ Each one reads a project, produces findings, and keeps models away from the deci
 
 ---
 
-**Certifications:** AWS Certified Solutions Architect – Professional · AWS Certified Generative AI Developer – Professional (2026). Previously: Google Cloud Professional Cloud Architect, Oracle OCI Architect Professional, AWS Developer and SysOps Associate. All on [Credly](https://www.credly.com/users/rajeshsood).
+**Certifications**
+
+- AWS Certified Solutions Architect – Professional · Amazon Web Services
+- AWS Certified Generative AI Developer – Professional · Amazon Web Services · Expires Nov 2029
+
+Previously: Google Cloud Professional Cloud Architect, Oracle OCI Architect Professional, AWS Developer and SysOps Associate. All on [Credly](https://www.credly.com/users/rajeshsood).
 
 **Contact:** [irajeshsood.com](https://irajeshsood.com/portfolio/) · [LinkedIn](https://www.linkedin.com/in/irajeshsood/) · [Medium](https://medium.com/@soodrajesh)

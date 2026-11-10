@@ -2,7 +2,7 @@
 
 Senior DevOps Engineer in Dublin, 15+ years in IT. Day job: AWS platform
 architecture, vulnerability remediation at scale, and MLOps & CI/CD for a production
-estate. Open to Senior DevOps, MLOPs, SRE, Platform Engineering, Cloud Engineering and
+estate. Open to Senior DevOps, MLOPs, SRE, Platform/Cloud Engineering and
 Solutions Architect roles.
 
 Write-ups are on

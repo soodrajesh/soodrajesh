@@ -5,9 +5,7 @@ architecture, vulnerability remediation at scale, and CI/CD for a production
 estate. Open to Senior DevOps, SRE, Platform Engineering, Cloud Engineering and
 Solutions Architect roles.
 
-Recent focus is Google Cloud: 22 reference builds. Each one stands up with
-`scripts/up.sh` and tears down with `scripts/down.sh`, and its README includes
-screenshots of it running. Write-ups are on
+Write-ups are on
 [irajeshsood.com/blog](https://irajeshsood.com/blog/).
 
 ---
